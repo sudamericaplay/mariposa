@@ -2,7 +2,7 @@
   "schema": 1,
   "revision": "2026-08-04-1",
   "endpoints": {
-    "api_base": "https://api.tigosports.com.py/api/v4",
+    "api_base": "https://apiiiii.tigosports.com.py/api/v4",
     "vecima_base": "https://api.tigosports.com.py/sls/v1",
     "country": "PY",
     "live": "content/get-events/{country}/live/games/1/10",
