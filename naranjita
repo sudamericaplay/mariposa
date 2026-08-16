@@ -4,34 +4,7 @@
       "name": "Deportes",
       "channels": [
         
-        {
-          "group_id": {
-            "iv": "wwNdUEKu6jPTkTn6",
-            "tag": "DOBWcp/zqE2hm1DfKr/WpA==",
-            "data": "AAm5xx5D"
-          },
-          "name": "TNT SPORTS",
-          "logo": "https://clarovideocdn4.clarovideo.net/EPG/REPORTTV/LOGOS/3950/3950WCUADRADO.jpg",
-          "key_pair": {
-            "iv": "Z7c4kkdUAvM41Lk/",
-            "tag": "j3cBbh12mfChmnPVuWQzSg==",
-            "data": "TJaPhYKFdckMwjXECDxiReueeFtWf6kCg4buTrrToIqr+Vaxyl2gNgNqGxq4Nq83lxBp1VhnICJAOnlhRVme3hQ="
-          }
-        },
-        {
-          "group_id": {
-            "iv": "fQUrzGlkKq95o0ME",
-            "tag": "MCwcLwy7643OtpACspBFHw==",
-            "data": "+OfwbJS0"
-          },
-          "name": "ESPN PREMIUM",
-          "logo": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/3951/3951WCUADRADO.jpg",
-          "key_pair": {
-            "iv": "pCPQS5rL4XYyzc/5",
-            "tag": "CGmu2bX+OBHgGZmnd7Kghg==",
-            "data": "mtZj30auQpXbDz+HjDnZa0GAmFlHdkBt800Cpn1dWmUU9DT1ZQYa/s5l3hbPjk2Ag8ymcKfICu2GdmEMIVVsjJc="
-          }
-        },
+      
 {
           "group_id": {
             "iv": "mfHIaI8OxFyltD0d",
