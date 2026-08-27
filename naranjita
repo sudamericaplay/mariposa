@@ -3,204 +3,230 @@
     {
       "name": "Deportes",
       "channels": [
-        
-      
-{
+        {
           "group_id": {
-            "iv": "mfHIaI8OxFyltD0d",
-            "tag": "NmxRPApRy3uKRkkit8T++A==",
-            "data": "TUHmoJ4z"
+            "iv": "nckfYCZ4hAA8Wa5N",
+            "tag": "b5btfe5z8/ehgsO+8gkpVw==",
+            "data": "IrAkWNEq"
           },
           "name": "CLARO SPORTS",
           "logo": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/8962/8962WCUADRADO.jpg",
           "key_pair": {
-            "iv": "GG16uyYpmep+ATAU",
-            "tag": "ncIa3Ac05v4ktrhR3IKe6Q==",
-            "data": "H6uGhNQ4nu7Z9GIAdbkbj6Z+2z0Kydar+j+NOmXLgy4QpfJpwhjWQm/1Q1lhPSwXNy4vjzm1J6X4lfHfmy+N4nQ="
+            "iv": "7rWRaN3BGtqHaijW",
+            "tag": "CaX0Tj+AvNNtdWpf9LKy3A==",
+            "data": "T8821NTT+xuyBfgKX6+bYHLVmbpdhAf1NvZGUqhhks67B6WuHLW1icc6HQ+51W8SdJgQnbuk+Qr9SoKtvS2Q+jQ="
           }
         },
         {
           "group_id": {
-            "iv": "wGb6jtOtxz/9JiRZ",
-            "tag": "c8H+xreqUHPkf2wzPteswg==",
-            "data": "sx+RvLbrcw=="
+            "iv": "7de45wk3kxOSoTUI",
+            "tag": "U6T51IzMoCC8KnWABnMxag==",
+            "data": "ZubSI3x9Ig=="
           },
           "name": "TYC SPORTS",
           "logo": "https://clarovideocdn8.clarovideo.net/EPG/REPORTTV/LOGOS/40/40WCUADRADO.jpg",
           "key_pair": {
-            "iv": "FKqaCYJB3o/iwQPW",
-            "tag": "uo1iDxk1t1k8zr6HuzLh8A==",
-            "data": "lMuCQFiOeGLNRAJA/TSUxcpvDOB4vlpiTbAuldsp7/KWo5boSf4CftoSsA92sp6i8e7XBT6xbH5A5Y+PiyHqEoc="
+            "iv": "SLHlP9oy8TBIeh8h",
+            "tag": "EZKoIQSZUF4SXrtAiVvt/w==",
+            "data": "YMRDH9zaFiqOSV9KXq3O+I663SD26ct0T3/mFGetrf8IMepJV/VE8O5WxqHkEtNvL8zoL0HV9r1bxmLqijb+gK8="
           }
         },
         {
           "group_id": {
-            "iv": "5dbwqD268UCYqx1m",
-            "tag": "P0PFeleialIxZ/BNrWbLYQ==",
-            "data": "7fTBza1Z"
+            "iv": "J8Jn8eO5Kq6Xh+YU",
+            "tag": "pdpZCnK7PyoSIb/VzQWrUg==",
+            "data": "arYVPx2P"
           },
           "name": "ESPN NEW",
           "logo": "https://clarovideocdn0.clarovideo.net/EPG/REPORTTV/LOGOS/229/229WCUADRADO.jpg",
           "key_pair": {
-            "iv": "6BcL7DwelkOFrbYS",
-            "tag": "KgzBpR8MVpDrH5jsCW3N9g==",
-            "data": "aOdOPOXbewrrtZF6P5nGWGLiZwNWTwGu9KXgb8KqP6TqTwPgFiYQDXUhog+So1EGt8XRA5c+l6Oe6KrhqzW7mT4="
+            "iv": "srNOqViOte9eb0AT",
+            "tag": "x04Y8SX8GLM4pRjkmKc2cw==",
+            "data": "TsWmguDNIy1393Gj8fuoSmOclCf+OX7+jfcGLuuv93m8Zi6sYiEDJJDF7r2E3K3SYUVJP5xmbNFK8HSSci3D9Wc="
           }
         },
         {
           "group_id": {
-            "iv": "y/ioiOZzDGKTGION",
-            "tag": "SPYOUyM87mS6o5dwUrz2mw==",
-            "data": "NSaknb+Y"
+            "iv": "QSjKhMpIe9LCWXNc",
+            "tag": "2ix3qpySpJNRy6jA+6squw==",
+            "data": "OdbRnBJV"
           },
           "name": "ESPN 2 NEW",
           "logo": "https://clarovideocdn8.clarovideo.net/EPG/REPORTTV/LOGOS/18/18WCUADRADO.jpg",
           "key_pair": {
-            "iv": "jXD6BhWN+E4R4OYI",
-            "tag": "bMX79TK8XsmApVuH0EcLlg==",
-            "data": "84O+ol1513TWjkKpHtNt49flb85C/+b6f1EG6RYsrxuxj7t8ezfipWQ/BuHoAliJSmnRzboC2vNhTDDjF4myJlw="
+            "iv": "TYaxyi3wUkBOW6cB",
+            "tag": "zmg1M8kyBMmZ/3qXIO7tSA==",
+            "data": "WrYtSwYAPSiXmfED6jItM6ruJUnNN4TkwTCyeAcL38odULv4UbDSjPoqXjoF34WsSFf3wkL2czPT1Y1zL4ThHxI="
           }
         },
         {
           "group_id": {
-            "iv": "6bt9tc7fczBa75s4",
-            "tag": "l0E0Mz8lPu3YV8You+SfCQ==",
-            "data": "dhR1Kw/+"
+            "iv": "X1psSOGrD4nqAWtg",
+            "tag": "NlASqNB2Z/O35BL7YuaYyg==",
+            "data": "RyBhWaCJ"
           },
           "name": "ESPN 3",
           "logo": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/4971/4971WCUADRADO.jpg",
           "key_pair": {
-            "iv": "gM2OTD62r9+qzUPU",
-            "tag": "YwVUVqDVVYdswNx6a54tOw==",
-            "data": "l8Z2p+SChLYgXtilN+jJnbcr2pf/SiM1RBVk/DTz7rWU3TWQMjbIhFLWpgUEjo4nSB3VQ9MEOp2nZh6olqZx6qI="
+            "iv": "EEFmNOMtgG7Qp8Sl",
+            "tag": "sFD+TcSq13gG1KdXKFXpzw==",
+            "data": "y1tM0viAeg4qgX1YzMW0doHQQhDg4OlEvx7KcTLYN4qq0VBexl0RhZuRAm383lnvKfMYUrHhOUXiC43npJCN5Gg="
           }
         },
         {
           "group_id": {
-            "iv": "7JAVUUGfPRzhMY34",
-            "tag": "fXAZ7rAtWziCjwwB2RfX8w==",
-            "data": "ZDiqrkSi"
+            "iv": "876QkABYAajtpaBG",
+            "tag": "T6NqUnj+jL3AikPBFEmv7A==",
+            "data": "8pCZctL5"
           },
           "name": "ESPN 4",
           "logo": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/3224/3224WCUADRADO.jpg",
           "key_pair": {
-            "iv": "y/uczFHWpdZB524q",
-            "tag": "NbZDyE6PYq3GyatIZOId6Q==",
-            "data": "bLwGbCXFXtKUK4SvaC/h3QmqgLlbAQSiPLmFA5UCY96Sc6rPwztqRHm37Z7atf0PsdX/RAaMr7fLM/dGA9S0KAk="
+            "iv": "g1a+suoQLMuSNz09",
+            "tag": "x0viuCWMAsAyAtz7nW44WQ==",
+            "data": "IuHg6MV72xmYHL8zfvuPEW6aYI3owu5h8heYNgRMKa2NIJAfKJ2T3864aKMzODdX0qDk/+pDwoCCJTLU2uu8Q28="
           }
         },
         {
           "group_id": {
-            "iv": "ezxqM0qoVb10tvYo",
-            "tag": "IIoe2AllDaNX/AMvhkAaeQ==",
-            "data": "tIRXKHrB"
+            "iv": "NLr17tlo15Jsgpb1",
+            "tag": "RljiRAieT8Fh/rZKf1Mt7A==",
+            "data": "aWue/IOO"
           },
           "name": "FOX SPORTS NEW",
           "logo": "https://clarovideocdn0.clarovideo.net/EPG/REPORTTV/LOGOS/221/221WCUADRADO.jpg",
           "key_pair": {
-            "iv": "FmmJtDIPmPxGyNCi",
-            "tag": "V1DuCaTbwoaEpG91ovqkHg==",
-            "data": "yJ0dEQgjaJ75MQjsI5dRknXevq2OkWMdixTskmzvSneKpBGse0XZxUcE5VLkuCMeYl+AxehazVzjIF+MGVY1DD0="
+            "iv": "HEHjmoIKq36xlZuy",
+            "tag": "s+gSkDtKl4YBdQY27RIHEw==",
+            "data": "sC/IdD5Lj4iL4VQQGHXrUxFFTHDO09+rYIjYNxQwiuKWrsSkvX2Gq+eEZKoQcnPbtqq5801u2XNassazFWirta4="
           }
         },
         {
           "group_id": {
-            "iv": "1tER3afFxprExVHr",
-            "tag": "eqquqDuP+60vC18pyVFv3A==",
-            "data": "JPcInnss"
+            "iv": "PboJUBgSB55rNFPf",
+            "tag": "Pkjnv358TJQsAGswhgSnJA==",
+            "data": "lSKQy8jE"
           },
           "name": "FOX SPORTS 2 NEW",
           "logo": "https://clarovideocdn0.clarovideo.net/EPG/REPORTTV/LOGOS/978/978WCUADRADO.jpg",
           "key_pair": {
-            "iv": "j644hHo3PWGPAB8l",
-            "tag": "xehR2lbBgDtV2yqKRQiMUQ==",
-            "data": "YYxpqqolqYBld6maBJXDm8KA2GbgXP9VGeoUTiUa1cjhEAnjPWJaUFLMo+IlZAZFS2pt4kKmCD1ckmD4rRULGxg="
+            "iv": "2qLGJEibVZkxWmnD",
+            "tag": "noMyL4fk8cBWDQHXtrJCdQ==",
+            "data": "RJDCj+UuXZ6W8OM0JbTBbCegi0DQOzUlWJeqFJZccv66cZPdHa4ebbBeN0a+Bc5aqJpsNmF7A5RGvWbtXD6T/9A="
           }
         },
         {
           "group_id": {
-            "iv": "fXp3ikdP2r5HtHDI",
-            "tag": "KLfGwvyndb3tI3+gmvhzPw==",
-            "data": "IbKe6Geh"
+            "iv": "RNUkxcTBCDAvVuP2",
+            "tag": "DlOQA5aK5LhuD02xqtoKUg==",
+            "data": "FkjpfFmH"
           },
           "name": "FOX SPORTS 3 NEW",
           "logo": "https://clarovideocdn0.clarovideo.net/EPG/REPORTTV/LOGOS/362/362WCUADRADO.jpg",
           "key_pair": {
-            "iv": "2LqzsrICZkG5r5q4",
-            "tag": "sGCke6Sf1URWG0ga622URg==",
-            "data": "Rd7wDiQmTmhl42AUXjxF9rmc/U9YhD//YT2VMRBhWkBB4f8hF5qLQR/JWOTdONgx7aLjfBCYllckv3DrU67kEMs="
+            "iv": "eL/cf0EuJvunCAUe",
+            "tag": "Ccfl4tTOIHK6HmKRqnO/RA==",
+            "data": "llmz+mRKiapczZeCB+PJ8JFLwkJ3a3WcmXb4wid/aBViLkhyp4RgMSUQ+FA6NMCsLf7eI6W5spBJdm1MhrB3PtY="
           }
         },
         {
           "group_id": {
-            "iv": "ciHH9Mx95VVFzWDF",
-            "tag": "5KcCUafArM8NziDVansgbA==",
-            "data": "6r8Azzrt"
+            "iv": "OSxeweazduxU8skC",
+            "tag": "FzB3i5+M2yg4F0ADcoPy9A==",
+            "data": "X9Ngz7Jd"
           },
           "name": "DeporTV HD",
           "logo": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/2198/2198WCUADRADO.jpg",
           "key_pair": {
-            "iv": "R+hL+pOhDwfT9sUU",
-            "tag": "WMwIDlUGVbdvXGNaz8G4sQ==",
-            "data": "T7LPRUKCPSmukcW1f154hz08DpnV5UJeRcEuEuYyq7uBUe6HDRg70N7GrrKafLg6H0ERZ2qyfniHoojE24Stp34="
+            "iv": "+ks2Eql4WRO+blw9",
+            "tag": "znaE/9F5gy7daNhISUg+gw==",
+            "data": "rBUWi9TA199QwYh4HC0u5X44lZpde2Wu5vDVwdaF1Iw94HAQLIA6rDc7uidXcg/8GDeh0Dp+ST2sUzBZ6LfveGw="
           }
         },
         {
           "group_id": {
-            "iv": "GExCHvvC0OKRTuej",
-            "tag": "TSOgLlWap6uvCrBhojtOlw==",
-            "data": "eiGJ53O8kg=="
+            "iv": "oT4JTN09T8iEZzW5",
+            "tag": "jL3qrTQretu5fzjspqprdQ==",
+            "data": "Di1y50CIGQ=="
           },
           "name": "DSPORTS",
           "logo": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/8691/8691WCUADRADO.jpg",
           "key_pair": {
-            "iv": "wRbyJijqLDZ3+Wre",
-            "tag": "nweEVs2l4MHSEbqOiBQItg==",
-            "data": "EEvpSQOD+5yNjIYlnq2fkvRa6QRdXX7eAomBxP/5F/TmnfEeKvTN4i03eZj6tjvKzpCi5HT36ThJyVngcTDW3r8="
+            "iv": "sCHWmvo+uZ4ku1tv",
+            "tag": "HHbX/twkN6jy87RRHWsaWw==",
+            "data": "GI478EIqBiMJBgiP4MOSjp2lI0sw5reY24mJA491FZQUp7L21PzJofKY1ouCyHVLZiFclsu5/UtbEdCvjYOx3ao="
           }
         },
         {
           "group_id": {
-            "iv": "G9wRIgxUUaKkLuNX",
-            "tag": "5ZttaHTPCK2ZSuqjsYoI0w==",
-            "data": "8ra8S23clQ=="
+            "iv": "pzDPABuTorJVBhsV",
+            "tag": "OaaWYsflZV9ptskJ4A06gQ==",
+            "data": "EexYxuXwfw=="
           },
           "name": "DSPORTS2",
           "logo": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/6998/6998WCUADRADO.jpg",
           "key_pair": {
-            "iv": "wrHf0osT5RwVWhrT",
-            "tag": "G/gj+F0CpmnKrGZRpN+hXA==",
-            "data": "zFXzU1CX9GFQ6Iq26lca2SZ1i3vNuco0Y6u4q4S4rxI0bSJbe+h/jJ9nlQjGDwZo8ao1GDOZLCeJjlKB0GHSriI="
+            "iv": "cj+cWLEQnGDjis4F",
+            "tag": "dliLGUbdLKvgWbCb7xygOg==",
+            "data": "5SMKYdxIrY8fwu+ffgmqipLkvfptS1i7iu138WlEr2g/PQibosUxIyFqzMwKxJVZqDAsOX1HIKUOsIj37vLKGkY="
           }
         },
         {
           "group_id": {
-            "iv": "C5Sdgonip0TCfyf4",
-            "tag": "iNWK2dm0kjZsiYHAzjRdrA==",
-            "data": "kySdT9fL"
+            "iv": "J4IiosuhXMbuur4/",
+            "tag": "83KCr5/AIqhyc0M3YUIe0A==",
+            "data": "ynqaIu8d"
           },
           "name": "PX TV HD",
           "logo": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/2063/2063WCUADRADO.jpg",
           "key_pair": {
-            "iv": "MoiBb+raHrUt9s3s",
-            "tag": "q6lzjT7homzV7rvWHe6zCg==",
-            "data": "IIktKxhnt7xtuBucabhIfRWb02ja9crh904D8bS2v1sGk5mTgqYEp8WqEp+O2+H3mn6fUlFFom4ukqPDrqmV+0E="
+            "iv": "t4rc0wB6Gux/hrvo",
+            "tag": "WKbSsmXugySr2DoZgSfPog==",
+            "data": "OjeSZtxjlD/jITPpzNtB3NtH6ZDwmmxa9juv2a6yAq/BDh+y2wxRdJKgh261EM5orY724Db79rxSn23GNZCIkhY="
           }
         },
         {
           "group_id": {
-            "iv": "ki6ob4YZtrj6xQPH",
-            "tag": "qaj0/MdN+U2RAJV6WbUlGQ==",
-            "data": "uONMot0olQ=="
+            "iv": "URdJ5hBpVER7ICgw",
+            "tag": "T5aC3XBuW86bfOB7xAL7gg==",
+            "data": "XI28FF9pNQ=="
           },
           "name": "TYC SPORTS 2",
           "logo": "https://clarovideocdn0.clarovideo.net/EPG/REPORTTV/LOGOS/153/153WCUADRADO.jpg",
           "key_pair": {
-            "iv": "Rm550DFMrguTYkDQ",
-            "tag": "kR/rMEyn8S3t9JlnA+sDSA==",
-            "data": "LbXcaVqaEXxz17zDnS0Pa2uA7CJrpeo2NIuj32anP00yKaTqHf2yrjFnZi89uVjzSfqeZ0s+uqaDnozGMTNVRPk="
+            "iv": "L3OtZKPDtzkViKvR",
+            "tag": "oI0xuYHJG118EOqfghuFlQ==",
+            "data": "Whmi4OVTzK9C2/90I22CSqKdxBffhAGquTSIidAsGmTaIqua4+C3RJrZFlU94LloEynoYC+8zLPaz+ypzM+43Jo="
           }
-        }
+        },
+{
+"group_id": {
+"iv": "wwNdUEKu6jPTkTn6",
+"tag": "DOBWcp/zqE2hm1DfKr/WpA==",
+"data": "AAm5xx5D"
+},
+"name": "TNT SPORTS",
+"logo": "https://clarovideocdn4.clarovideo.net/EPG/REPORTTV/LOGOS/3950/3950WCUADRADO.jpg",
+"key_pair": {
+"iv": "Z7c4kkdUAvM41Lk/",
+"tag": "j3cBbh12mfChmnPVuWQzSg==",
+"data": "TJaPhYKFdckMwjXECDxiReueeFtWf6kCg4buTrrToIqr+Vaxyl2gNgNqGxq4Nq83lxBp1VhnICJAOnlhRVme3hQ="
+}
+},
+{
+"group_id": {
+"iv": "fQUrzGlkKq95o0ME",
+"tag": "MCwcLwy7643OtpACspBFHw==",
+"data": "+OfwbJS0"
+},
+"name": "ESPN PREMIUM",
+"logo": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/3951/3951WCUADRADO.jpg",
+"key_pair": {
+"iv": "pCPQS5rL4XYyzc/5",
+"tag": "CGmu2bX+OBHgGZmnd7Kghg==",
+"data": "mtZj30auQpXbDz+HjDnZa0GAmFlHdkBt800Cpn1dWmUU9DT1ZQYa/s5l3hbPjk2Ag8ymcKfICu2GdmEMIVVsjJc="
+}
+}
       ]
     },
     {
@@ -208,422 +234,450 @@
       "channels": [
         {
           "group_id": {
-            "iv": "/xmprTbE6uAuxMck",
-            "tag": "2l1Edj/HtEmel73Q2krKAw==",
-            "data": "NfnVIger6w=="
+            "iv": "38exOeC7EpiZd+J1",
+            "tag": "YHMQ8N0kgqiDZOHC1L6fyQ==",
+            "data": "/1C/NUTLUA=="
           },
           "name": "BRAVO TV",
           "logo": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/7154/7154WCUADRADO.jpg",
           "key_pair": {
-            "iv": "xt6NIvX044szGoRI",
-            "tag": "ay1R50ted6nmAo6crQ/32Q==",
-            "data": "LdNsrIBOXeUnCJ6mSokIyGtykpqzHuMrTmk92rQIIbhE2u5yDuSxsIp73sArHPGK0lTltRjF4zMWvcvuZAtXSRE="
+            "iv": "FKSdQh7z5lr0VP2R",
+            "tag": "LqaJysvgc0hqXI8RRF2jWw==",
+            "data": "PGpTo0j52ZGxq6QVGMWxSKGv4p7waLEXKLorpTuhVpyNwAcYhn42i020kFDKxvgsgL1XJldTjk1wWJVn3XU97M0="
           }
         },
         {
           "group_id": {
-            "iv": "uXfpoQKNkmk1boNW",
-            "tag": "lVX/Dc19w5Mdu4LHH6L0vg==",
-            "data": "lSHV7/iR"
+            "iv": "tc0z0HCezeu9HbtC",
+            "tag": "NaU7wJaC+907k1g3bDnzyA==",
+            "data": "6O/qnLJ8"
           },
           "name": "NET TV",
           "logo": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/4646/4646WCUADRADO.jpg",
           "key_pair": {
-            "iv": "jREuMI1RjBeqSw+N",
-            "tag": "qM94oDOKbRh/0e2pruWByg==",
-            "data": "yID+lyBn7VHonhzIJL3z30z5akU3Ge50AM3qrnO3TCQ6lIEWb89nsLMh/OrDadJlV/gZ8hTNtIscMt6X2Gj9pg0="
+            "iv": "em2KltgjzGTmRIUG",
+            "tag": "tZnEY6kf5yhE48FKKiPTyg==",
+            "data": "DsYea/NyLapjonM0C0cSEA4hiOrJdUOEO6BVtuq31L0j7m2jqKTcEA+bmN+OX2CE7652yMbR5danalftJjpVGvg="
           }
         },
         {
           "group_id": {
-            "iv": "QTHaAciDiW9QMI/F",
-            "tag": "TXefhN/CiWPQaUuzoxi+7w==",
-            "data": "d1HWKTZq"
+            "iv": "xpXjLCeWK9H9cvmW",
+            "tag": "wwtrlWu14RAlRxp4gn6p8Q==",
+            "data": "kHEP30fA"
           },
           "name": "AMERICA TV",
           "logo": "https://clarovideocdn0.clarovideo.net/EPG/REPORTTV/LOGOS/175/175WCUADRADO.jpg",
           "key_pair": {
-            "iv": "GX3MvrF/fWLISa1z",
-            "tag": "gtPpYsoFqymWQtVkb1avog==",
-            "data": "/FodNt9qo/rQrdYY2aIBQOGkWT2NywcEM3eRlzCTMC7HEzpiafZ9D9iZENSavMyr6U+6wqWVDFKgTPSlIMs+uE0="
+            "iv": "IXiuh1aArgRKMwa+",
+            "tag": "qC4E+lv8ZFzAgL4Bzi9xqw==",
+            "data": "iZaJoRN5pxsbcFoXVnRN3tkSeiT2vB1P/MbnRz++uZwtf5lONvrw3SjDP1GPEfr5dobD1GpRj0udhnF2klz2Hl0="
           }
         },
         {
           "group_id": {
-            "iv": "Q8WHQcoZrpzhRz1e",
-            "tag": "rEhn3Xd9eDf6ob91GhiJSw==",
-            "data": "on1ewyP/"
+            "iv": "9wDtKSGiYC2nNJUD",
+            "tag": "SzlcQ9M7SFCMTIU8hrWCfw==",
+            "data": "L3jICMKS"
           },
           "name": "TV PÚBLICA ARGENTINA",
           "logo": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/1569/1569WCUADRADO.jpg",
           "key_pair": {
-            "iv": "+1jcE1cb59jgJFj+",
-            "tag": "zF/waNgQkEPIAjOChEMLYA==",
-            "data": "TjdXfi0evqvypEg+9AQRQOBgMfLTAGC22BbA1RsKYvmbTyedpRocbTMR6ZXbTINMCmhwJYVxDHFgKsqu2EKGgX0="
+            "iv": "GQetydy4QGdwuDAt",
+            "tag": "vP7r5f11kZv9NSrVeGU91g==",
+            "data": "chCFxm176Sm9iQ1vJeJPBFetiETb4k52P+cOQv0gU4mghZnmqZWekrSjrsKbzd2LMz6Jr8EwLwfaGbDAHZoINDo="
           }
         },
         {
           "group_id": {
-            "iv": "PJUqj8LlQRd23HOK",
-            "tag": "JC+Hb95lonE1oarQUa5IKA==",
-            "data": "X41MD/GOrg=="
+            "iv": "/UJpFqPbSVx/J91M",
+            "tag": "mHpk7MCAOZnPzTJrmtSQgg==",
+            "data": "jlR5tmTePA=="
           },
           "name": "CANAL TN",
           "logo": "https://clarovideocdn8.clarovideo.net/EPG/REPORTTV/LOGOS/36/36WCUADRADO.jpg",
           "key_pair": {
-            "iv": "uGCAUnaR1fd9r/yc",
-            "tag": "18DvGLwxCR2BliKeg2PbUg==",
-            "data": "sHMnI2pU/KnnELsoGmzhtXLqe/Sw1y2Yby7jTSzCS8vdTCY1GurN6QaNIb+bbIhToU3xMgksTcJmCG4dqjvAR6Q="
+            "iv": "xIch6jjozlnrlgHy",
+            "tag": "pwq7yanTG1qZ/5YDo1Y1iw==",
+            "data": "hNuMT0BmHFGLyUgWzJqJzB0pYXTZyaazdqH0DogUirmkQTWJ3dsKny9ftEYyYq6HRkyDy0Tz62z4ZC1UAKFeWxc="
           }
         },
         {
           "group_id": {
-            "iv": "ErzTHYyQxnsbuEn+",
-            "tag": "Sf0cSsMdkWSEY3nY2whX3A==",
-            "data": "6Y4RSObw"
+            "iv": "mhS7wejzgJuZh7wa",
+            "tag": "VlrFd7c9OZeQLf8dt7+FZg==",
+            "data": "boeW7f1F"
           },
           "name": "A24",
           "logo": "https://clarovideocdn0.clarovideo.net/EPG/REPORTTV/LOGOS/343/343WCUADRADO.jpg",
           "key_pair": {
-            "iv": "jxTUdbulZb0Jk1jP",
-            "tag": "/2/HEGEAZ3XuGLHyA9wBzQ==",
-            "data": "dFxo0KYVofRbK9JmNzoEOpXEilMbgai4vk6EVNcD/EJGl2g25TWRleIMJs6m9ky6EEkPTsekPeF3nr2pexaE6M8="
+            "iv": "yYqtwdI5agZ075Ae",
+            "tag": "jXevmhgY9prkck79oChbdg==",
+            "data": "MCFbgcScVxnfpFv7aAqPnL4pkMw3e+y1F/XdR4xlaXO5gruW31hIUUNQtJey4GIOovtG0MhvvHfrr4wtI3Qk8m0="
           }
         },
         {
           "group_id": {
-            "iv": "vo0BPTRhiz8oCVUx",
-            "tag": "5uqFEaz6q1icl54qVcd6Qg==",
-            "data": "F/Zb8VTH"
+            "iv": "ioN6lD667k75umkN",
+            "tag": "becd7ffABK79cycPZNEEoQ==",
+            "data": "xzZhs3QY"
           },
           "name": "C5N HD",
           "logo": "https://clarovideocdn0.clarovideo.net/EPG/REPORTTV/LOGOS/709/709WCUADRADO.jpg",
           "key_pair": {
-            "iv": "VPZhCGehfh2KwhuM",
-            "tag": "Ruepr/9+680FQ5ac9eyq8Q==",
-            "data": "Zb8utDuncPfaHx/51XlWRBMvvieje0op043Ip6pL62fQxW13ssYuHlncPce8TnHXMpGvBBH9562bwgWoDQe4QnA="
+            "iv": "hmGdIVblvTdTfEgi",
+            "tag": "wWs0HStHtcyqPYY5i8MM+g==",
+            "data": "nuYbK6JqLMRF5b5YK8EnDH1lsW7ENNzG8euuvi3saRndg3zQylgsh3POBObxlbGQ/EZ3AIfXUbOeCZMao3bCtOY="
           }
         },
         {
           "group_id": {
-            "iv": "hdZWNk/3c6Iw6kgr",
-            "tag": "IApGB93qg9F7NySWqNy+cw==",
-            "data": "4ATuUVVx"
+            "iv": "YQdcad6+H05FES3T",
+            "tag": "gCVV/gmC2Dw2q4lGYgEffw==",
+            "data": "Sl5Htgw6"
           },
           "name": "CRÓNICA TV HD",
           "logo": "https://clarovideocdn0.clarovideo.net/EPG/REPORTTV/LOGOS/192/192WCUADRADO.jpg",
           "key_pair": {
-            "iv": "j4YfyG+86ynq74xX",
-            "tag": "fJfmOwAT34OyX7Ufouc0Sg==",
-            "data": "cg1fmzlmhhk3NtYEO0+59D4Ln1hrh+r3c5ePF4uFEm5WTbAkZ/wxbYzYwwoffjT1NvlW0Nr4n9rVdEbqUgbbBs0="
+            "iv": "UpVD0lyM2YS9Q49I",
+            "tag": "QP5gpcr0Av5NvHF9+LBlnw==",
+            "data": "7//1LFyM/DyY0ZgBRTz1kaF6gLolkqImtJkm25Qj5ZEW0YK1GMBl/zFZdCWSWpzLhvXRXFmNX9NzkA5+GoIqQgk="
           }
         },
         {
           "group_id": {
-            "iv": "1YqpLPQxufJMhQg8",
-            "tag": "I5gETHF1JGHlU7haUdYnMw==",
-            "data": "f6ojwznr"
+            "iv": "jGsFO3bvgMrIPZzC",
+            "tag": "u5FC77TIUvkHt4doi3BIeA==",
+            "data": "PMvZMSZ1"
           },
           "name": "LA NACIÓN +",
           "logo": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/3644/3644WCUADRADO.jpg",
           "key_pair": {
-            "iv": "AgtdBk4w984Y0gMH",
-            "tag": "dqTGNgWePBF9/gJeTYq4kA==",
-            "data": "YfpeihMxO0GO2n04+A0QJjq3eV2ozHZmx/AitXM/8Vh7qIAYLPovVCoAHLWhYjEONk+gN/TTUYI1oecAFMp+pmA="
+            "iv": "DxvIVvWf07RjXqbq",
+            "tag": "2fNHSm7JkOg05V/1p6G+JA==",
+            "data": "OgJx2Oh7X2+18k94D5gG1RbXfpOuah6iHS4R4Yq6fOJMfWv3A0i7PhrfSnMCX9IlImzu9DfBUMdnozf/46nVeBo="
           }
         },
         {
           "group_id": {
-            "iv": "4ew8xBBT9EuxWWwr",
-            "tag": "no2RwrRsxTgJHZ93CAQBmQ==",
-            "data": "8GtqM6zn"
+            "iv": "3SAlcdT1ToCEYa+x",
+            "tag": "fWzUQKM7XXkoU6Pkvt0twA==",
+            "data": "nMyZR7fl"
           },
           "name": "CANAL IP HD",
           "logo": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/6158/6158WCUADRADO.jpg",
           "key_pair": {
-            "iv": "aJZdLNUBJR+xfcDi",
-            "tag": "KswLOT2N2duKSC9PIGpchA==",
-            "data": "CQiUIQApyoglNfPEE1X6o4Dl7Q4qq6T7aZU7GWuUZ5IseHlJLPSBdVqK/mPF79nxWMPaUdf+m3m/sNlCOOmQ78U="
+            "iv": "vzW2sdZj7PyRT7/W",
+            "tag": "M9wtwXpBC7TYi5p7scrh4g==",
+            "data": "f0f8f/EFcRAL1oYf2FP8XEmWcRJACk+P1DJQ07a7qC6xmls+iKcXsLXuyCDgfEBGq5GNeqBrV8OHNlDVvjdLFwg="
           }
         },
         {
           "group_id": {
-            "iv": "AyzQs/vWDprKArl7",
-            "tag": "D19CTPq0Z8qz3ijgMfzDBg==",
-            "data": "fNG1NXwLMA=="
+            "iv": "YcV5WnjxQmhoWm4o",
+            "tag": "EeandQLdUbTRNin0m8j03w==",
+            "data": "gjYYrNjaLQ=="
+          },
+          "name": "CANAL 26",
+          "logo": "https://clarovideocdn6.clarovideo.net/EPG/REPORTTV/LOGOS/3/3WCUADRADO.jpg",
+          "key_pair": {
+            "iv": "GNsxo6wYcFhd3j0l",
+            "tag": "lj0NI6vbXP9bPNGG+6jTIQ==",
+            "data": "J68wpVvH5gatEk5gLHPrjih0VCe2UbJzBPAPTaaMa+qqJCXlw18onAubofZ8fV6dpTcKLtPca9eC+WXqMGHk8ig="
+          }
+        },
+        {
+          "group_id": {
+            "iv": "7o9fzcBigEgO8Jas",
+            "tag": "0jf2t5WeOA8iISNshefNog==",
+            "data": "94Pg7kNkSA=="
           },
           "name": "CANAL E",
           "logo": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/8196/8196WCUADRADO.jpg",
           "key_pair": {
-            "iv": "f0VUke6LH5GZNfWu",
-            "tag": "GGYi/Msa9ZqWbJsazC426g==",
-            "data": "kQFNvO2ddmy8WiOAklctcwGJqumkDtaTcJl9XRzP7ZabcJJloZ4LElB7UXv+xA1ZDv7qxoF+JdG4VwtYxUf+ZoQ="
+            "iv": "snBi+MpJpaAGnIAA",
+            "tag": "jDU0kkfmIGPRUNwLEgo8JA==",
+            "data": "Z+8Wssao5Ssu6SuSFn9epP2mGpSb5YxiUqoCh4xUeGoG76GECqh/NC/nAdga7HgpQLRaaTAqsvoPwuoc2z2wzH4="
           }
         },
         {
           "group_id": {
-            "iv": "oyaD5T9XwjfYIqj7",
-            "tag": "tpnDf4dsYyZyNovYx5qixA==",
-            "data": "Lq0IoZyN"
+            "iv": "Aupiq/zNRfQEYVf3",
+            "tag": "ka0XoH0JKtK5iWZ1nn4l0Q==",
+            "data": "3tZNLF67"
           },
           "name": "DIPUTADOS TV ARG",
           "logo": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/4320/4320WCUADRADO.jpg",
           "key_pair": {
-            "iv": "Wqo9/fiHVkTvsrfI",
-            "tag": "4SswyrzgnD2ICsy1852L8g==",
-            "data": "5Z/eG9mIfdBnffWYstTQyYoYnXzlV7GAd1gAMWMDl+viWcfA/GHT56MD5RR3MBXKtg3qCfKXCOaQIZqXEhNkf78="
+            "iv": "13UybUdKj7PzwH0n",
+            "tag": "+jQNeSowG038zC8sstWPSg==",
+            "data": "Z28mmISc1A23j72206oYMTkS3u5PM4fObKaASiOM4Uo99hDFX0d2jVyRH7y5NMG5NFlBdGlEyDMZ5t9M6PguhNk="
           }
         },
         {
           "group_id": {
-            "iv": "SeXy+nyMs3iZO9fx",
-            "tag": "KuXvN8BGeGofKhAaGkJpfg==",
-            "data": "jPMvxfVp0A=="
+            "iv": "3/Wwi+Wr6HQToyqO",
+            "tag": "4ZVpdXBj+S1hfn6PmeqJKQ==",
+            "data": "RMAY2FuWYg=="
           },
           "name": "CANAL 4 EXTRA",
           "logo": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/8261/8261WCUADRADO.jpg",
           "key_pair": {
-            "iv": "6yo42SzyP5GUCG5/",
-            "tag": "uVL/Eb9iTOIxV9r115csvg==",
-            "data": "Z4getRodHrH+ummc9wn25IdECkDDRCu+5zffzXuIGj7IWXNDWtiNu/m4ybr5LqdMBZjQhazEz2RABLG866ARyNo="
+            "iv": "qqcpIT+cwuHHvzVK",
+            "tag": "RRlTB4TQ6uiOewU6+LVrug==",
+            "data": "XMuobiCMDaeCuYPKfs9AOth6qSGP206F2Cse2kMagdo8XLEsHUo36iLg9bKDJqghP+1opLIpEVNJfz8dPORjexE="
           }
         },
         {
           "group_id": {
-            "iv": "Tw7uvMG+y2o3ZrGd",
-            "tag": "G9sYPNroshe68QWDgusqkw==",
-            "data": "BpY0UxDSOg=="
+            "iv": "FiciEDdFx5bNU9eY",
+            "tag": "9+mh1IKFxD7WlUGiaVoZ4Q==",
+            "data": "K0NPqYYclA=="
           },
           "name": "KZO",
           "logo": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/3078/3078WCUADRADO.jpg",
           "key_pair": {
-            "iv": "2lyXtAwdqylQtMuP",
-            "tag": "WG2PL9zWfmTPOBVVn59imA==",
-            "data": "8IKonQmIQ7x9yuAmxqKmMH9YDejQAABHcjAzjrEWpiQqZDIsMu9Xs/Y2PnhxEIejXBm/fD8hueRE3WK8b51cSAc="
+            "iv": "gwxBC+qIHHEL+aQG",
+            "tag": "F6Ef+yzbcs3ZbO3+TXbmnA==",
+            "data": "MTJ4lvBJWq0KlGRnPPkG0gCBiO3E6c5U8lqaxG6JwLGygudE5B6nzHuqXGRj/9t9I5qndtfIMX7iBNZtyrNac3Q="
           }
         },
         {
           "group_id": {
-            "iv": "bsCIEwJumO90YMkS",
-            "tag": "jYpcjuu8ijpFnMwYT5iWsA==",
-            "data": "V0fNlYpX"
+            "iv": "CsErEs9kVoVGk58O",
+            "tag": "Dn9nQ7yMbnif9SwGsvCzYg==",
+            "data": "16Kd73HZ"
           },
           "name": "ENCUENTRO",
           "logo": "https://clarovideocdn0.clarovideo.net/EPG/REPORTTV/LOGOS/477/477WCUADRADO.jpg",
           "key_pair": {
-            "iv": "twYDZBEJITfA21Qe",
-            "tag": "1AoRETFm1No3Cm7x4bia2g==",
-            "data": "FIH3cvMk4CYbk5aTOES0w0CNq2dOexqjjct00myZP4Z0G6rptuL+lWTmVDEN0nrbUMl2vpvJzRiq8T9EYJVrZ1s="
+            "iv": "BNLsy6yYSKuRG/hE",
+            "tag": "glh0n4q81sR7opD27pbwBQ==",
+            "data": "iRUGiK/XF9RSH4y/e/JOsyZZwWcTWrPsynSfxMfXlq2V88CFhxKt7Si0ID4smqCF4pA0n4fA867KBOGViRzGkMc="
           }
         },
         {
           "group_id": {
-            "iv": "yPFhtoF+wuf65S14",
-            "tag": "JNzOwiNRvKtU8SPbN61V1Q==",
-            "data": "D7I8YolP"
+            "iv": "g6+BktrwMxTS8o1I",
+            "tag": "7o6QXWevZ8rm3BfkA1un/A==",
+            "data": "ECjq4w6V"
           },
           "name": "MULTIVISION HD",
           "logo": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/3260/3260WCUADRADO.jpg",
           "key_pair": {
-            "iv": "2HlneooQTiwMWyqp",
-            "tag": "TflLDcwqjeNEONLpesT+eQ==",
-            "data": "PaoL2r4eBU/XFDoQRCoCV5zbO0GXVWwWpgBAMoAqHR6J9wwlFbJmm/fjlWBXgog8KydNl7Ayg0OLR2ncL56iNQY="
+            "iv": "X8DqeoBhrXkDVtzX",
+            "tag": "bz5WfJsQzH0mSYr1czgMDw==",
+            "data": "4/d2qvUhlLWKwkfMQLhLky1WQi5muwFZO+cYkbG8YP4lMa63IKbAvW/0l6vGhgYS3iCRiBseFljSHotPv5uyemY="
           }
         },
         {
           "group_id": {
-            "iv": "5TFm3WAnvxGs3z5r",
-            "tag": "GNca6weJybtgQNQ4G55mwQ==",
-            "data": "kVhoD5QI"
+            "iv": "GLUP6FantLX4m3ua",
+            "tag": "2+NeToUCR9C966kmwf1udg==",
+            "data": "4SzVc7i8"
           },
           "name": "T5 SATELITAL",
           "logo": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/2283/2283WCUADRADO.jpg",
           "key_pair": {
-            "iv": "AeLRDB/IukD4FUpX",
-            "tag": "bIdYI/ZTvlWS4Sf3dE4s6Q==",
-            "data": "S9SZixIAZp/DwFT+z0c5wbEtuTkjpR218BFzRSS134fowKnn9h/jg4wrnon82gKjk96tE73S6ymU8grA8j+oZo4="
+            "iv": "gQR4uMul9gIISlVS",
+            "tag": "7xldDlTPqmSdByW69nLz0A==",
+            "data": "iHSHfgEuaxOsbn5tPfB6F8+Ku0ofeN4L7HengEgQbQRE2ua/R2KrelGscatbRM5ZqTuoo5ihMXlBeRlZ4hFIdPs="
           }
         },
         {
           "group_id": {
-            "iv": "D/KyzFwo5GCe9sS/",
-            "tag": "0+fcqDLN2JyRIykqrRCS6Q==",
-            "data": "vZm69fP0"
+            "iv": "aoMObFKtsOIUJFz/",
+            "tag": "VCWiP6VSSsdAbbvkuImLpQ==",
+            "data": "vXNcQRmYfQ=="
+          },
+          "name": "TELEDIARIO",
+          "logo": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/4309/4309WCUADRADO.jpg",
+          "key_pair": {
+            "iv": "raAdCeKYUQvQaXf8",
+            "tag": "eZtwIl1osawry1w9N4GsEg==",
+            "data": "lWNRybucAlbM5zQSy3ZOBTZuKmr6GCBomEzk7u8JCxkgO6H0pSMeBManIQm31uowaTwpmME0xW4h5Dms7aXKDcY="
+          }
+        },
+        {
+          "group_id": {
+            "iv": "5eYJfaCAUZuSBJtD",
+            "tag": "r8WQ4NvouOSQJXN7kxtTTA==",
+            "data": "+dAONlED"
           },
           "name": "EL GARAGE",
           "logo": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/4315/4315WCUADRADO.jpg",
           "key_pair": {
-            "iv": "uG7Vl6SDhsGxZXnz",
-            "tag": "bwdtTLd+jFnBRDl5LAx9PQ==",
-            "data": "ipxxmkNDW/Vt+p1h1AU4Mx6C4WxKcbxQj3xcgmIZiQ3TC0NHgs6qvJaf0xIVRkmWu3gHeTz7vwFlxRduLy1w+UA="
+            "iv": "7g2XSCsJ+5oxYh1n",
+            "tag": "+HgIVKzDMDTpJTAI4W3IYQ==",
+            "data": "VKJqWH4T3SnwZ0gIx2iPTeM2a7KDT3DfDMRtAhxrwGC3ZaANKOICvffJU534rluBgDBctzmc2KDDHn8/MuXW+ko="
           }
         },
         {
           "group_id": {
-            "iv": "5i3tFNR1HvHD9wpq",
-            "tag": "shIL8cjxhDhh3Ohw2IFplQ==",
-            "data": "3ID4093NOw=="
+            "iv": "7je1+exu7n6OB7am",
+            "tag": "irqghZR+0byr5kEWHOhnEg==",
+            "data": "tSGAewphZA=="
           },
           "name": "TVE",
           "logo": "https://clarovideocdn8.clarovideo.net/EPG/REPORTTV/LOGOS/59/59WCUADRADO.jpg",
           "key_pair": {
-            "iv": "Xj8s35fxaD8mvzkQ",
-            "tag": "tbXgyJ7v9VO+NtdJBElmLA==",
-            "data": "F12eI/+60XeUnzSaymwnVY8bjV6FPT3CBDhDePIIm7pSIYaKCfA5ze09XlCoQoq+c7rLxhmOya3EJR3McUy9aUs="
+            "iv": "auCowEPvj48bGTS2",
+            "tag": "LY7xA/3vHNSUZyGBOtsaRw==",
+            "data": "8Z5ZZA2HW/ZF4tsDXlrQoARsebZTE/w3FNm/qk7+oXbOjGcvFS7ngu4r6MZIFV48+7eHkYHUCy6IrSapD95nyB8="
           }
         },
         {
           "group_id": {
-            "iv": "2p2Cw/XYhXKn5vTt",
-            "tag": "Wdw/K3aOjiwayMEDetSixg==",
-            "data": "5zzIF031"
+            "iv": "Y65chLCo+DtXYJxS",
+            "tag": "pGlrtanOznkLCizJ/GjSyg==",
+            "data": "Je4LU5f1"
           },
           "name": "HOLA TV HD",
           "logo": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/2670/2670WCUADRADO.jpg",
           "key_pair": {
-            "iv": "oaiit0hZEMsRvlCI",
-            "tag": "Gqh6yKhM48sF6bpfbV5kBg==",
-            "data": "nBDHCmkXFN2+4tSE7ShmYoCHaKhUKZVVA5mC39G4UV+A9bbQ2J/5OCX6RCiSKBNqnj77TLCZ+nrLZm5PLp1MiWQ="
+            "iv": "6XLYcxDJuR4Fwuvo",
+            "tag": "mpPvsL7lHwVDUVzWvTaSLQ==",
+            "data": "3rOmFr4Z4nVyK4OQsygOL+oGQIM0YTwLrdCbGoZdAwLUlqt1PwEHNuUd0Q/aUu/XngxfCiqJ07E3Xge5Bsdsio4="
           }
         },
         {
           "group_id": {
-            "iv": "208I90AGpx1/Fv++",
-            "tag": "aXni8Q4GL9rc6oNrfVH1HQ==",
-            "data": "SJZunhY9Og=="
+            "iv": "N+eJiufp/0ixY9Zd",
+            "tag": "2nqwWDcNkSlKyIl7kxhNYA==",
+            "data": "6YDUeb5AEg=="
           },
           "name": "CANAL A",
           "logo": "https://clarovideocdn8.clarovideo.net/EPG/REPORTTV/LOGOS/58/58WCUADRADO.jpg",
           "key_pair": {
-            "iv": "ZkkSIM4crjsgHK8o",
-            "tag": "C0ZmiuLfVVJkdBKi0q/mtg==",
-            "data": "CMnyKq6rA4/U3NwY7EvDlAuZzzmglJpbv96gt1ZG93YyCuvsf2pGjD0zxcx3/LDiGQHolMRGaHR5u2lTjqeWgM8="
+            "iv": "eiCkblGp4zJnlWOi",
+            "tag": "z6CpdutHtoMT4hvAJaT7Zg==",
+            "data": "VDmocjBt5B+TdL3m56zBxyvNJEbnTaSIY1Pp7LfBTwuQsoM+1qUI7zeBFEwNyMPGPcOkx2fZCjXOYNsAp8P2yDA="
           }
         },
         {
           "group_id": {
-            "iv": "HB614laQIvpxcKXl",
-            "tag": "pIStv2SJPEJ0MVfAWMtkcA==",
-            "data": "KdCbeFpXJA=="
+            "iv": "qauOeKKYWvA5bfTw",
+            "tag": "0nCJa9vTNByfQjLM7ZF9Kg==",
+            "data": "X5XcX6fj7g=="
           },
           "name": "METRO",
           "logo": "https://clarovideocdn8.clarovideo.net/EPG/REPORTTV/LOGOS/27/27WCUADRADO.jpg",
           "key_pair": {
-            "iv": "KzRE/lYDlXg7cEo9",
-            "tag": "dOlgd33dVO+5x2oMjDp3xA==",
-            "data": "Aaj2oXE4WAk3oiYbxr194geYYCXr6yCpzhsRaL2Up8Q/ycMlcVDVv7WWGV59Cc41NWaEzAE1xwd5JYMiUjHn5vA="
+            "iv": "iZCni0ZEMfq/dClE",
+            "tag": "V7qAIwHxKgQQ3vCHhYMtNw==",
+            "data": "AVVmmHZSlCzBJhR8SveZupGQ1QHNIJlPJUkmSqKhWUH1h424dSFO3L74OYoO2gYlQ2nDwf3fQdpAbDwC4AuqDNE="
           }
         },
         {
           "group_id": {
-            "iv": "b2lBMD09ccI0/zFr",
-            "tag": "EOmQJu1mpbB71DOEmAMCgQ==",
-            "data": "vpTixzI3"
+            "iv": "jcU3Dqk10Tpef1av",
+            "tag": "bzuOmnkXR3BqIIiVpQ+8/w==",
+            "data": "7aJa2lpU"
           },
           "name": "CANAL RURAL",
           "logo": "https://clarovideocdn8.clarovideo.net/EPG/REPORTTV/LOGOS/11/11WCUADRADO.jpg",
           "key_pair": {
-            "iv": "1fBhV78jiqWtKuZr",
-            "tag": "a27NZ01Lwih4Y/b71Lh6wA==",
-            "data": "K1WbaO1REUQDxZ66UREALKL9D8wP1hveJ4KdJuiDLPC96DFgGqTuGNNQj8uuQXwY97Z4Rj36lLR+h3zjfoNMtTQ="
+            "iv": "+UxkapsrOuZ+yleT",
+            "tag": "PsqYCXFeaw6HoUrLC7Jajg==",
+            "data": "BKSuy8pCFQVcvX+s7Wd+yk80xpOOzDEv+xTu5knaaJzo5HU5NWR1WCKZ0fdLCRM+efx3zSlgGWEgNfVfeGWFySk="
           }
         },
         {
           "group_id": {
-            "iv": "rAHqfy0/4Nwq/g1+",
-            "tag": "MQmWSzkcHCZ+Dk83ifFwCA==",
-            "data": "h2ttyUKVIw=="
+            "iv": "a5NkM1nqCxrOZawI",
+            "tag": "rMktQXI3qEhqy6L1eoz2Rw==",
+            "data": "qTHVDX1dVg=="
           },
           "name": "CHACRA TV",
           "logo": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/3840/3840WCUADRADO.jpg",
           "key_pair": {
-            "iv": "OkRKgl1gsoKdNr3z",
-            "tag": "a8TakWnlusJtp/AWrkfPWA==",
-            "data": "aTer07d42jKfF7+NIxCA0Qs1RjJ/brZt687HmMK0irp5ciI3i7AzxcfcjeRrd7yaVvCbMKh1+Xc8QViE5qLQmZA="
+            "iv": "x45Ime+YxYpRy8t2",
+            "tag": "yClFvGjvhAF/zdKYYhxtlg==",
+            "data": "o4h4xZTR4RDmoBcRNzpSeKq17ZAHCmMuW4/u1r//lZA1I6yktPn9h2o80oxaz+DmK82sp/dk1sJLmw82ocO9cpQ="
           }
         },
         {
           "group_id": {
-            "iv": "xKtQG8R3LmMhjVM5",
-            "tag": "Yf6oN1bzrxfx/6yxZM0UEQ==",
-            "data": "eAOTd0km"
+            "iv": "z3Kvc0G4AVafjjiS",
+            "tag": "mOo9lz+Uvr6Tax7rhtHCZw==",
+            "data": "6kllAtOG"
           },
           "name": "ARGENTINISIMA SATELITAL",
           "logo": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/6185/6185WCUADRADO.jpg",
           "key_pair": {
-            "iv": "HCuWsdKIXa6SSder",
-            "tag": "2HNz34jyDwen7/0Wm60NBA==",
-            "data": "8LtVA7VieeJ2o87l65JJ2njd7fHnQ++NhoVELaugBAIUTUt3vGPJB/G542Am3gkHjaZaEDdB6Ia5Y2qsPoALvWA="
+            "iv": "7QM6IfjVJVr0wUXu",
+            "tag": "usktGpvDxGdXSofdzzuYtg==",
+            "data": "afLPypo7X8UhXE3xfPnEjHFVd4NboO/gaCBdNzWPQ3G6kFIqqupTcJfCmFtyNADvOnMPWZvf6AA3A1OLDa3nowQ="
           }
         },
         {
           "group_id": {
-            "iv": "gC49HMRpfB6hnDGz",
-            "tag": "qRStKW+mxEx311SMsspsCQ==",
-            "data": "s1zr8lD1jg=="
+            "iv": "UxVtmOwQ39yGJPDA",
+            "tag": "V660Su70eMONytiJmE5GNw==",
+            "data": "Pfs/8qinkg=="
           },
           "name": "24H",
           "logo": "https://clarovideocdn0.clarovideo.net/EPG/REPORTTV/LOGOS/281/281WCUADRADO.jpg",
           "key_pair": {
-            "iv": "19tHAlVE7doOCNWX",
-            "tag": "5TzIJEVmoYq+Qn+dI3aGeg==",
-            "data": "MiJdCITHk5V74ttwv8F2RiQ70uh80983mfVtrvdh3n64HVnDyFrQ7PnYkoKctin/0IgImVYlUsdxxwvwXw8ZzXE="
+            "iv": "bovYfkZK6NFqPU1N",
+            "tag": "4H9U0YIcqYDdTeBgJfu4SQ==",
+            "data": "zA7dWHXHVrlFueFIC4+pE75ABOXVOpUrCNYNcqbyoe9/M1qehXdfQQd7FnQgzxZLG13mZzPosRGLcrRB484JG1o="
           }
         },
         {
           "group_id": {
-            "iv": "9wmRq0MbJjcfzJrX",
-            "tag": "vMKwJ+Kf0YG46gK7W0bjHg==",
-            "data": "Ly2/QJiG"
+            "iv": "nzePYDuJf9u4TNmv",
+            "tag": "HcfPgaBGm74vQ1EOjaL8jg==",
+            "data": "rynlKtGo"
           },
           "name": "MARÍA VISIÓN",
           "logo": "https://clarovideocdn0.clarovideo.net/EPG/REPORTTV/LOGOS/283/283WCUADRADO.jpg",
           "key_pair": {
-            "iv": "IyI36Id+JMgzFR1F",
-            "tag": "Mk3C7stnjmWcxuB6gjl4xg==",
-            "data": "ktSIMBtnNtevYPtQkzCncf3iSgNKgjeqcIUNhX9/n5pHiqyKoWjxzjhhi94IOWfpoOZXKVv+Wp3wdzKyOC57YFo="
+            "iv": "ZCWAkBKqf6Yff/i8",
+            "tag": "r8N/nkTntWeCJkmpexYKEA==",
+            "data": "Ie2Bm5ud7i3SlhXU2JG41LpAm1T8zk21zBrGUkP7FzHc3K7HuDfQ/59hQF/9ADwncnsZC/9du8HlbwUp8xX8Us4="
           }
         },
         {
           "group_id": {
-            "iv": "ueqprMIzoG8yJglJ",
-            "tag": "5VKoaDWkIH/mhMSrQB3Jwg==",
-            "data": "SJUbPL9d"
+            "iv": "FZmRWAiix7U4AD1t",
+            "tag": "Ks64sOjlXQ8t1r1NnN0WRA==",
+            "data": "V+vqwyFH"
           },
           "name": "ENLACE",
           "logo": "https://clarovideocdn0.clarovideo.net/EPG/REPORTTV/LOGOS/413/413WCUADRADO.jpg",
           "key_pair": {
-            "iv": "k2mbjkCEmi/6xsgr",
-            "tag": "UKnVHHrn0ZuSK3j4JuGyvQ==",
-            "data": "DJgjpKOnUUDQfoTzOmsx0UTukLmOxJ4kXa1Flhi116GLylBGnEmDk7L+5rjmx/XpPsANRMNvbj+5bUE0ShFgA6c="
+            "iv": "XAYXBIN5lZvU6bqQ",
+            "tag": "LZpjTyrsgTWBIz1o2M4wcQ==",
+            "data": "pCZ84DAa2LS2E5GoVpGuSmMd1lp9P5ABxgtgLL+bAV4PnXwN8CLaKcieLXOc2/MSkLfpihvaLl/UFQDwmoQ3jaw="
           }
         },
         {
           "group_id": {
-            "iv": "p37MiIy42/0haoDN",
-            "tag": "jtf0rM9cvNLDelnx1Vx9sg==",
-            "data": "pw8587jy"
+            "iv": "8sQDgt7VXkTtX0cL",
+            "tag": "TaS5l7GV1syTujcA/6smyg==",
+            "data": "3pVdYajH"
           },
           "name": "EL SEMBRADOR",
           "logo": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/1155/1155WCUADRADO.jpg",
           "key_pair": {
-            "iv": "y9LAZoWvVjWUYl7j",
-            "tag": "rzGOtUGJAVYYlRv7wzZEXQ==",
-            "data": "IBMvIEXotrwD8Ey1YFgIS9JHBRnPYPFQ0eL3qRr8s1KW8l8wsIy9SlELOpPrPhLYvI2j758Iz0BQhuX9k26Kx8w="
+            "iv": "HXUuS4bRilWAN+Ee",
+            "tag": "SSZ+X8FkQccgasV+F4SseA==",
+            "data": "c7oRGuy0/RpGg6j4yzvFm+TpxT8L8DfzLp4qaN9ltwp0gspOh1IunSm8YF1OPApPhI57OPDBefRUmT36GevVT6U="
           }
         },
         {
           "group_id": {
-            "iv": "mXkh1kqiKh803Bn9",
-            "tag": "TkyhZMZfUjn7zEK95iAQxA==",
-            "data": "/RBnL42n"
+            "iv": "oiFVzkkp9Ts2ODYP",
+            "tag": "FzeVn7XtEGwlaMsTVKveHg==",
+            "data": "PYIPIjAu"
           },
           "name": "HTV",
           "logo": "https://clarovideocdn0.clarovideo.net/EPG/REPORTTV/LOGOS/115/115WCUADRADO.jpg",
           "key_pair": {
-            "iv": "OhfKSX3rR6U1fYqX",
-            "tag": "mqtr072RMwNhEEkUi0I3xg==",
-            "data": "Wq0/E4g/3S/EKPcgS8rNKruZYyYJNYn2s7w1JmzPf1MiVOIW+QENpF+9YmNANFLluF0kS9cynTQG6Whh3nM32Tk="
+            "iv": "ezVDCIvVvbcQOeKc",
+            "tag": "dmCFDlKHlo/z8bthsK3eBg==",
+            "data": "QXzU7p5pj/segfBq4bid5l2w94FPSvUMF7XrvJWH60NT70SEkNF7ibwOrF2X0if626q5R6eNIerdvi70QBWh5mA="
           }
         }
       ]
@@ -633,296 +687,296 @@
       "channels": [
         {
           "group_id": {
-            "iv": "yTZy7PIuaSKDjxMX",
-            "tag": "I8ZdIbcqF2ttJl9oXTUEHA==",
-            "data": "8IqgCGeI"
+            "iv": "pPiE+e/sRfyfVKal",
+            "tag": "cRi437wgBLB+tPy+ZEQ8Lw==",
+            "data": "ojsKtb4g"
           },
           "name": "DISCOVERY TURBO",
           "logo": "https://clarovideocdn0.clarovideo.net/EPG/REPORTTV/LOGOS/492/492WCUADRADO.jpg",
           "key_pair": {
-            "iv": "axg6rTCoY2kODNho",
-            "tag": "ZWy+qqHfXzGtQIFgh++yHg==",
-            "data": "tWeD18+Mq2WzGBNytHyQGQc4b2eajYsXr9LbIxlhIEInZYh3qLtWXIpFnt2iH3dhykG4HJVZdsVnW3IQ+pIGPyk="
+            "iv": "WfxlBcyd6KVOhsVa",
+            "tag": "rqKyXJ2Ti7lcXOBI565S/w==",
+            "data": "KPHb+iP3GdZLxLEO6ARGO2kT0H/Bo507iBo6K3JUI7JPYjnBAm0ePwVT3zgHFv2Kg6POM7QCVRq4T9gGhWfqygc="
           }
         },
         {
           "group_id": {
-            "iv": "1aMLfk7iNcpENHfV",
-            "tag": "1hY0Q3cdj698KZVU7/eefA==",
-            "data": "5geXhVVk"
+            "iv": "S5SJnyLH2qW0o6b0",
+            "tag": "jMH2rzsBJx5r+zvD1NMVoA==",
+            "data": "KUPdPYWW"
           },
           "name": "DISCOVERYIDHD",
           "logo": "https://clarovideocdn0.clarovideo.net/EPG/REPORTTV/LOGOS/111/111WCUADRADO.jpg",
           "key_pair": {
-            "iv": "xgkfF52Cyyqde5p+",
-            "tag": "GD2mFClaVYizqS8ipvoCaQ==",
-            "data": "tGyrrwpqnHqctS/t4D6oge5METC5K28ixhPY0SWcLPVYZLIvPziYtRfnvMJV1e+PnOfFeAghT7I5d5cPYu4BVGI="
+            "iv": "B+Zy40LYxGd+7XwI",
+            "tag": "vxtWuJ14mYHCe/+iqTDK7A==",
+            "data": "bS1NR0mkxN1IYdG4ZEX6WEojL4V8CLGSfSV5+re+5J2FLlvT6TzHW6HTcsUY8v+6HERQnRm1ohTHrbJTp8Z3xhY="
           }
         },
         {
           "group_id": {
-            "iv": "WKH16oWYuvuFo2fk",
-            "tag": "Y+qAlKQ1O63/qCoGbsHwsw==",
-            "data": "XolS49xj"
+            "iv": "b3j4tX2XMqpIpCyD",
+            "tag": "20CVy9KLWJ1OSu3/AeQiPQ==",
+            "data": "1JdamJWp"
           },
           "name": "FILM AND ARTS HD",
           "logo": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/3391/3391WCUADRADO.jpg",
           "key_pair": {
-            "iv": "Iz1ZZRkDmacR134H",
-            "tag": "ThZljVRvYZOCS4cMQ087xQ==",
-            "data": "6lNSJu33RthqbN18lCaB7pHaX/UBNjY2kToYYJuBpPasgWZUa4w06/Q7SlHGNmUIdYqFfiFev6q8V9Ez+mqxB7U="
+            "iv": "5dtkZzjoyVK3OoNL",
+            "tag": "Y/0BUP+jAqs0/9KArYL4KA==",
+            "data": "A/cASmx/5Rrqun24Cu7ZqzLgQbVXz8Me/FYdANOrn56xWNgRDGcha8K1Hx5YVSeJIQ/Ngci1lHrKzzU1DSj1UYU="
           }
         },
         {
           "group_id": {
-            "iv": "RU95W98dgs1sDvFP",
-            "tag": "XwI+PCfQqPIBqcc9oNkYZg==",
-            "data": "A7kvjk7I"
+            "iv": "Ic2ZV+VCGXxvS8W2",
+            "tag": "eHB7Uy6u8ykEN4LEMLfQXw==",
+            "data": "Vppq5EaI"
           },
           "name": "DISCOVERY HOME AND HEALTH CHANNEL",
           "logo": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/2218/2218WCUADRADO.jpg",
           "key_pair": {
-            "iv": "Ojk5VxBabHCHCwDz",
-            "tag": "li/Ez5o3ANT2ogpPzeiD9Q==",
-            "data": "aIvrcWxQ2KTsOuqYdFFF8f8gfE9WtiDoBHEh98Upmes/goWpf1PUjQbR2/+VTHO9uzOnNJDJVGqnTkBTGY1sGx8="
+            "iv": "cLq2Q3mxx4cXxOPc",
+            "tag": "plzk2QZY8O0vhjc6V1IPLQ==",
+            "data": "JY5/CGn22oJnD/Cq0QJsoaCrO5KphLyQPf5ZxrmjmP+79y//5K9cS2F7chTJt+uFI0KxII1uI9N6pm0hnJurD0Y="
           }
         },
         {
           "group_id": {
-            "iv": "UIjHDVgnpKmebmZt",
-            "tag": "tH2p1qChTChvzHoBWU9MVg==",
-            "data": "emEb/n6h"
+            "iv": "FplVeQtT1kHbLhj7",
+            "tag": "sc06rnGd2XNQk51ggSwNuA==",
+            "data": "ALgY/M/t"
           },
           "name": "El GOURMET CHANNEL",
           "logo": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/3244/3244WCUADRADO.jpg",
           "key_pair": {
-            "iv": "BDItohncybuZjjD8",
-            "tag": "DOpu/jpB7FyuvSHupS5zCA==",
-            "data": "qlR7n3Qw23rPd5dUE41/JcEnovqaXW0bHHYc3YYHA48Rm+nU0H0BlfSbUMYs5qdqH63/MtSi9CFmBzNk7VVi3oc="
+            "iv": "sRMsS6yAN2NdvmdS",
+            "tag": "4Bf4cPZLn55ck1kmLf40yQ==",
+            "data": "k8TXCCskqBnUtCpuNSxcu2CFBdy2n2EDy/uv4CWKZfcrvShXVX28UiHxMjoeWvLjTptYjCSXatsZzTfngqr2wqA="
           }
         },
         {
           "group_id": {
-            "iv": "FH7VRUVzCjUNthZc",
-            "tag": "TRLFb2qCXUlKz94suTb8BQ==",
-            "data": "D413QTJe"
+            "iv": "rYGX4/hK310jj5Ai",
+            "tag": "UQ0CbLkFgGHJxepm1rgrOQ==",
+            "data": "s0rnoISO"
           },
           "name": "LIFETIME NEW",
           "logo": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/2789/2789WCUADRADO.jpg",
           "key_pair": {
-            "iv": "Ztlm7zY4xhLGCwGU",
-            "tag": "Bz7F4OPxRmQfq7J4TkMOfA==",
-            "data": "aaKPef/LZ1RoJPk89gYwcoiS4ACep1y/nYczYmKOA3RLLKCxMWDtL87eUKHa7Kj3I1mTU9FtkZUWIaBi8R/Wekg="
+            "iv": "7LBMXt4WR41atLPN",
+            "tag": "nuZjRzDAnxx2gMGkRw+OEA==",
+            "data": "ZrpVERfR+Ds26VPvw5huVKYS4C8syfmLhyrMUoADaWZ4G5QCayzEPMMUBSSTQj2tMDd8jqxt6a72fRPWRzgEP2o="
           }
         },
         {
           "group_id": {
-            "iv": "W991vnehH2luN1ee",
-            "tag": "hn3pDf7oRFtZ+Ju2AFiAOA==",
-            "data": "jZGzPB75"
+            "iv": "gJ0QfMCk+VI0BafN",
+            "tag": "y77Qw/AOTKLQJMV/pMgOJg==",
+            "data": "LcGCa+80"
           },
           "name": "FOODNETWORK HD",
           "logo": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/3450/3450WCUADRADO.jpg",
           "key_pair": {
-            "iv": "wkAQYqZmhWTx9+9E",
-            "tag": "rJbMo6V+cBHAjehegbQ3RA==",
-            "data": "84HlWG3qWoqieoW9kaGQZ6cYWPBKxTZ1UsnWDyXOBYpOsrceTRs3dXKSSPJwpL5qsiyQCxdp+G1iVW4WT9paMk8="
+            "iv": "/KnIXLFxG4IncTNc",
+            "tag": "Nt4b7wBOSE3FMq+YWWvkwA==",
+            "data": "d5BQMY4atpySFvF71JKq5iTbUerPaAf8pOFxP/wE02B0VGJi4aepVeZP0bqRsaw3cfPUiFHi9HSd+Yes5Vw+5Pw="
           }
         },
         {
           "group_id": {
-            "iv": "wzzFQ+Onak7t6cqo",
-            "tag": "jGPLG7O694MaQ92InpFDzA==",
-            "data": "6C6oX2g3"
+            "iv": "dQ6AHD2981pJCUw9",
+            "tag": "f5/8zdJUK1SHlUcY706WWQ==",
+            "data": "IyFbPArQ"
           },
           "name": "ANIMAL PLANET HD",
           "logo": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/4605/4605WCUADRADO.jpg",
           "key_pair": {
-            "iv": "Sr948iQBzT1LXLR1",
-            "tag": "wt/hFWP+kCe1mxhjU3dRZw==",
-            "data": "4tOo0Gr7pHtLAVJgL7ao56D81w21ARNNIwx9g60hWbX1FzxSiMTUsEqNDVyaC//WmYt+3pFWJS5gf9cxLiPZh4o="
+            "iv": "AtT7M/xuwU2ae0uW",
+            "tag": "+Q0YxNFfALWWVjgdijvxfA==",
+            "data": "f5rMo69HVLvkodsZqNycNXzJ5mpG70EXIbzngJQpUAdqVkShGdwADzHPK6tZ8LH8dJUPA+B3jkznxqLCGXTOJdI="
           }
         },
         {
           "group_id": {
-            "iv": "HTxxOpFLbj2wXAO3",
-            "tag": "OlRYpF5iNsYmEUxAR/c8QQ==",
-            "data": "EwxEn5tJ"
+            "iv": "KTAEn0qwtDUcu11K",
+            "tag": "DGc9jeSE6HeT+LrSKPAC/w==",
+            "data": "C68zCjp7"
           },
           "name": "DISCOVERY CHANNEL NEW HD",
           "logo": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/3066/3066WCUADRADO.jpg",
           "key_pair": {
-            "iv": "k78rIWbpKSOY1bju",
-            "tag": "m7Q8YKvwKDfUyb+wd6X3hA==",
-            "data": "nN+g1crjS6aUDgO4r5ZZjVPukR25uYxM6VW/16pZw2AuExTKmcddEcguepJInSywfLGt22h7OqeY4+olK10TIRQ="
+            "iv": "U/kDSadJg3hIZ6yX",
+            "tag": "UA27SOjfdWH8dvhAoddNFw==",
+            "data": "Ip0guSFV+PCCZZ3DE0pXtUnBi1xq2TKsUioZjPXRJpZukuGNeou2/uVgMZzjuL+JP03uvn0jRCppSggO4xwEJ0Q="
           }
         },
         {
           "group_id": {
-            "iv": "ifZ940Xu+5miXOXT",
-            "tag": "K5aa/qBEGO5UusqnZ4eW8w==",
-            "data": "XNnTvLbL"
+            "iv": "WCHcdsFTet/Opt7R",
+            "tag": "vIIJE7zsb3eDq8qqh3QuRQ==",
+            "data": "CF1malNH"
           },
           "name": "HOME AND GARDEN",
           "logo": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/1531/1531WCUADRADO.jpg",
           "key_pair": {
-            "iv": "PkfgY0gyphukMj6P",
-            "tag": "VcS1YVYirMN89/2ZU4T5Tg==",
-            "data": "U/YOccHalS5loXy0hURnF1gDPBcnirInYHqE/qxNmWm8vAUB5uL5O0GucfAueKEGtSAwZsVUPsKF+rtIc/mWJMU="
+            "iv": "hL9vjT4byeeNZCR6",
+            "tag": "ys0c33D5E1i44AHvVtSDLg==",
+            "data": "+iQj3n3+J4uSBVruaWo4I7hD3i502TBBVgdUXYDTr/wUAc/pJS2czBir0yVCOE/sse0QXyeVbHJujdy8tlhHp5s="
           }
         },
         {
           "group_id": {
-            "iv": "ZN4Z8Lvj3lM/FXhC",
-            "tag": "WGLkmAGk2KUBosUjKcG3IA==",
-            "data": "LoDYOubv"
+            "iv": "aUEaaPDI8pPyvgpV",
+            "tag": "kywGbNnFgBoTwMXNPz0m/A==",
+            "data": "oaGdTFra"
           },
           "name": "DISCOVERY SCIENCE",
           "logo": "https://clarovideocdn0.clarovideo.net/EPG/REPORTTV/LOGOS/493/493WCUADRADO.jpg",
           "key_pair": {
-            "iv": "PlZhY0uc6SI/T+pf",
-            "tag": "fy/BDD9otsgSYBweb4mWsQ==",
-            "data": "rNwGWmCC8VD+XPQpEo3cXlF0ANVJQ75QR/9+XwFSvLYCvISlHc3lKGPrel156WG6EkfUBtH3RvV3yWJqkiB8Phk="
+            "iv": "c1Ccs93Ui6uVGKT+",
+            "tag": "IbLR+RIPpjFi28vwc0xLOw==",
+            "data": "dC9YTddEBhryUtSkEugp9wQ4lbxoHz92YoudsJ7zqztDvzRmKD8SZM1ZxY5F13nS4NOBW/zDSplvtmy2THX3GfQ="
           }
         },
         {
           "group_id": {
-            "iv": "i8I+IX7x00wZqPHW",
-            "tag": "5Qx34txK6XEZ8Eb6ZAzLmA==",
-            "data": "NZ+OXUkt"
+            "iv": "DkQZhgd49whUwFfc",
+            "tag": "DgBwuRozsCp0A1FpTz4U9Q==",
+            "data": "aZGYAuaq"
           },
           "name": "DISCOVERY WORLD HD",
           "logo": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/4516/4516WCUADRADO.jpg",
           "key_pair": {
-            "iv": "CA6+5qYfgLgtWg89",
-            "tag": "+KrXYuglB0SyugeFmsbZkA==",
-            "data": "uqaDSecxk/krKlJ/JD/dcE/AXx+6f3fs7dCVLG08Fuao/AHYVcgmFogH0u8uOavtvg0zTu7TO5l3gA++5GtQUvQ="
+            "iv": "mfYOV4gd986KBGg4",
+            "tag": "SmmjghZx/BMFvhUhdA6JrQ==",
+            "data": "+PAU9n+z+YEE/AJFW1BrOCTucVKoPwQYTeVCZj0T2LW3KzpOoom4BNjWBOY00Tyc/0HE6JsHoTfWnujrn6RvCT0="
           }
         },
         {
           "group_id": {
-            "iv": "4txI0ZSOOEGbc+gc",
-            "tag": "OMSmQGY/Rw/yVQkJC0SaEw==",
-            "data": "8muGgP6m"
+            "iv": "fc3tjHOqgzh3/BZc",
+            "tag": "LlUaFdgqbmRe1bMC8evRlA==",
+            "data": "/BlAwfSv"
           },
           "name": "DISCOVERY THEATER HD",
           "logo": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/1181/1181WCUADRADO.jpg",
           "key_pair": {
-            "iv": "oGBfQQQCsIpwoO8y",
-            "tag": "1GMS4RhDm4qgiFTLR5COnw==",
-            "data": "7YOvmjsfY7P8gP+wChTd9obblKdfQduNtwdVkFqzXA30RtxZlHg/Hz0Z1VorV+Z+vSEY34M5ShDQh05kkY1YVVU="
+            "iv": "ub8pkLDtns7ir2Cy",
+            "tag": "+mzpR62S6FTmHm5/S9/Liw==",
+            "data": "8NqqcxZnfY7f+A/96p0zZpAMJQN+xj1sBrpUVv6SkaoWPOo75rnGEUDCfmCL2k26/Ql5QKoX/eWsFFnjzmN+8Jw="
           }
         },
         {
           "group_id": {
-            "iv": "fI1vKAmn1yQ6UhIj",
-            "tag": "09iDiRBMn0VOKSQZETtpRw==",
-            "data": "eClU5xdx"
+            "iv": "Fpcuto+krK/Y6mBd",
+            "tag": "t1UXm29IkVEHDHKtIZKuVQ==",
+            "data": "RiwjlrHF"
           },
           "name": "NATIONAL GEOGRAPHIC HD",
           "logo": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/2710/2710WCUADRADO.jpg",
           "key_pair": {
-            "iv": "eCF2iWHr0+M6/C5l",
-            "tag": "yK1emE8KHGj+oiSynE+7fA==",
-            "data": "ww9E3+/IdHccVrkKSf5KxsuXu4M45oe4/wlsUnO3FAjSo6uHYujx1KerBi4S96BWXaDNxjuMmLxR8Ci2/malNTU="
+            "iv": "iY2iju2zXbuE+H4k",
+            "tag": "5MNoBQX6vBz67Oxr3TlI3Q==",
+            "data": "FJsOmDLJXZGEFU0TrSGIF6GLPCvoGFCZJ/4AQy+KNgJtq/XHnUTvmF/oxmuw1bLR+4HYgNcTsotBC35Qt5QK5xE="
           }
         },
         {
           "group_id": {
-            "iv": "2hFn5iOL2fjhyANM",
-            "tag": "8n38rGo5i7Ya1tk/pe1x4g==",
-            "data": "VjYxn4G4"
+            "iv": "9/LJzwZLHvF4gAMX",
+            "tag": "syt5MV5Nku3brKNAogucog==",
+            "data": "GbY2cTi2"
           },
           "name": "HISTORY 2",
           "logo": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/2823/2823WCUADRADO.jpg",
           "key_pair": {
-            "iv": "NklUPtF3HJ1MaOcB",
-            "tag": "XOTKU/+GPo3rFQzjAAZoFQ==",
-            "data": "imSlAag+aVmwrMOwZMlvXL0CFeqNZNtHVPRskV4chRnRKrraWE3YygZxvq6H+dKNEHrsBpX5YQfoKDeR2o4vM18="
+            "iv": "BwBuCrgb5BWxWX4D",
+            "tag": "+VnV1StFzpY/Zme4cSQOzg==",
+            "data": "9afjXiMt/CrtP8aiaJpn5MDfs8TK0EOT6Le1/mtax3MOrJ1S/n7FhoRu6hLm9pslZRgd4BOJLqdK+1pqA5rBFZU="
           }
         },
         {
           "group_id": {
-            "iv": "kmRI58C7skfEAcQf",
-            "tag": "BMTc8NZQybrkBH6Vki9RpQ==",
-            "data": "Y5GyIlPp"
+            "iv": "5nGm9/vRUYudzzZR",
+            "tag": "710hmkA+kUyTpIVKtNLfWw==",
+            "data": "Usd2DMoq"
           },
           "name": "HISTORY CHANNEL HD",
           "logo": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/5201/5201WCUADRADO.jpg",
           "key_pair": {
-            "iv": "T3H0kTtwO9RdlzYp",
-            "tag": "ehoh9+d2KQ7gMB2/0vqnbQ==",
-            "data": "zjACtDWFn5uMyDCQrdo5BeybsFMAqD0c5hexWTwIaJm9AI/DHrjZ7AbEvU4imaC2nwArDJb4VK+qMYZics3tRbo="
+            "iv": "fQfm+Ct11qYgJHLN",
+            "tag": "kygaaACb3+BVoDGbypmkHQ==",
+            "data": "wFYsuoP/mwl8/iYUJiH/ZU1dkiHyimEw/MVm1UWs9x81125L2eW24AqKmdqK8IjjEhoaBJTE+zRSZslc5Ce6AhE="
           }
         },
         {
           "group_id": {
-            "iv": "hQJ3TdK9cPCZsa4s",
-            "tag": "K+b6wTrUDo1/Mxp7hN3d8w==",
-            "data": "2QWQOxGZ"
+            "iv": "AW1FZu8mAipgqZx9",
+            "tag": "gekiRuQu7OigYm/RLczLhw==",
+            "data": "ESGrK7dh"
           },
           "name": "DW TV",
           "logo": "https://clarovideocdn8.clarovideo.net/EPG/REPORTTV/LOGOS/16/16WCUADRADO.jpg",
           "key_pair": {
-            "iv": "5OtU7Pt8jJ4a4xtD",
-            "tag": "eZr3fkpPA4rQtuH26o5puQ==",
-            "data": "/p7/XRXBsZxaNyleX9xLf32WjlZfaFR8V9iU1r9K/UA8v9tB2Omax3ZzwAgC+5RXO6cX7ddqxrcVqA+s6ChaX+M="
+            "iv": "2a2g3fLAVmK7HXXI",
+            "tag": "EUZQJdv7Hlrn2czlhcmvjA==",
+            "data": "k3aW5D0YvB/0EPw1Q+c8bL8dPIITDbfLQVKfn1PK6onStUmLLSm+y9F1QbMAl0qRqQOIBwjbFCxyeU4MTqmP8o8="
           }
         },
         {
           "group_id": {
-            "iv": "H6BU6AkQ9ktjKieS",
-            "tag": "tEfmcxyhLGkyFQllDNsK+A==",
-            "data": "Mi250f0D"
+            "iv": "aV4rgu2d74189rHh",
+            "tag": "gbQJH8wX1cY/jIx/RlMJTg==",
+            "data": "jsgAbDI+"
           },
           "name": "RAI",
           "logo": "https://clarovideocdn8.clarovideo.net/EPG/REPORTTV/LOGOS/29/29WCUADRADO.jpg",
           "key_pair": {
-            "iv": "N/8Sa9kP1j8dSDmM",
-            "tag": "Fdn2WIfn2iB9ozwpevg5sw==",
-            "data": "a3jYtgrGkfpIOSTiakh2zZEYLAhxvlXE7hAF5E+HPIoDnMKfx8lVgLGOtnwF1fjK3oVXRSskckyeKPgtwgCoa/0="
+            "iv": "O4s7f9lgqmbIgMIF",
+            "tag": "IUaRDBsgud3yo3/praudTQ==",
+            "data": "vu8D1N2Is1PE4c/ske7qjviREtedtwDgiZtB3yhQ9WCptGyVjExYbGWNwxWDjl7HJsMVreUps/uihIkl/6hjQ0M="
           }
         },
         {
           "group_id": {
-            "iv": "zTE7yyYInlRp4Z8y",
-            "tag": "/KOr1RRHURDWR+Em4AjTbQ==",
-            "data": "9LHWO7bm"
-          },
-          "name": "UCL",
-          "logo": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/2541/2541WCUADRADO.jpg",
-          "key_pair": {
-            "iv": "PdgiDCrhy3/Kd0XJ",
-            "tag": "N7xcj/MwDSRl3R5TrBpOTw==",
-            "data": "VfKNjGuGg3l+mYwF9DA6lUBDRP+fFClO1UlaaKC/87G4WvevmNN/pirlr9L0vLD3aie/abJqGXsRZz0JT3AQMK4="
-          }
-        },
-        {
-          "group_id": {
-            "iv": "RO8Ha3zLxCxle1HV",
-            "tag": "Kc26zS1WNYnV8yzIjm2vCA==",
-            "data": "C9gylNcj2Q=="
+            "iv": "XhS/9t/QsNnfNjiU",
+            "tag": "B101UfNlwnEI1Oqz3vWMDw==",
+            "data": "iin2+nik/Q=="
           },
           "name": "CGTN",
           "logo": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/2142/2142WCUADRADO.jpg",
           "key_pair": {
-            "iv": "WXkLfTxiTf58lW3L",
-            "tag": "gYFNIoqA9bZubSg5F3VZkQ==",
-            "data": "Q+V438cygM5MEWCSPJ5DxIlqNIlM4Daco95v6Iu6H37yqXBekCWJlp1Bg46J5ppXGme9ct3yktREmPOIyy7oswA="
+            "iv": "7B9b4uScA2/E5Dgr",
+            "tag": "DqL3tlMxTSdKL2TlERbqVg==",
+            "data": "8VCa0SH07eT3nz3OkQuSSpoFuKJ1fnfycgGI62Rli1RglHxoF8vE4KZzmyF0dB2BokwDg/JedKqWzrv+cvkKSgU="
           }
         },
         {
           "group_id": {
-            "iv": "AX2K2Rb3VJCmj2vi",
-            "tag": "zeOWCLkE+BIGJ9dcFjjuCw==",
-            "data": "JiEJO5Iz"
+            "iv": "VVpdpVtNcCO2eslY",
+            "tag": "zTYvIlNciIEaFt2O36vdRw==",
+            "data": "IcaJ91zI"
           },
           "name": "EWTN",
           "logo": "https://clarovideocdn8.clarovideo.net/EPG/REPORTTV/LOGOS/64/64WCUADRADO.jpg",
           "key_pair": {
-            "iv": "Qow00MpTd4nw7Wmt",
-            "tag": "xbD6GZ4mdoTGLRtsGDIp2g==",
-            "data": "X3beSs4Ab+vwTUlIbWQqi7XlerSTY1v8duX7vk3Rnv6kTnjYqoa9t0NyCrhyxmAtWBSLmoMWWj8NAV7c7SAtFjE="
+            "iv": "gw9HmRMbGhjTmVMi",
+            "tag": "R5E7amnD6hFgYhnun2EyPw==",
+            "data": "zB5XDEFworwMR7qwf6WDIn9car5w9Copg2p+zumi5M/fJH3Hz76mlp0Qdusvt8soC7ISy94jPBzUsxOLv9fg9Gw="
+          }
+        },
+        {
+          "group_id": {
+            "iv": "/ptYeXpwl8rylj71",
+            "tag": "lthJ2VfE7QAT/KdZZtY1HQ==",
+            "data": "xD0QZpgB"
+          },
+          "name": "CONCERT CHANNEL HD",
+          "logo": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/1351/1351WCUADRADO.jpg",
+          "key_pair": {
+            "iv": "jlNjsvUlcVyKhF0C",
+            "tag": "U8K8wsJ8QEpOst2uxJ8d3Q==",
+            "data": "2hYN11pSXVVB6jKJcz0tYXWxKbFZNlrZujukr/Gnp+BWvPPJ58H5wzYU4DG1BInPo2b3suNkcrj05FXZNANxsvo="
           }
         }
       ]
@@ -932,114 +986,114 @@
       "channels": [
         {
           "group_id": {
-            "iv": "50gB+vfXcHGcDDAA",
-            "tag": "SSaYNC5wGPyEblVLbVDWeg==",
-            "data": "WSnDP/b4Sg=="
+            "iv": "GUHkyJ9AS0bCNZUD",
+            "tag": "2ZB7fLHxkQlYwSLAh/PxlQ==",
+            "data": "xfbO32LlzQ=="
           },
           "name": "TELEFÉ INTERIOR",
           "logo": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/1335/1335WCUADRADO.jpg",
           "key_pair": {
-            "iv": "DhaV6wiCcKe0bTWq",
-            "tag": "jRdwaDPHIXRriGYLDaA2Ww==",
-            "data": "ionADJMI+WdopcKWYOpPIQcaB5Kfv+r18KeWj273qVKYMWDegfO/gkzGbZpnk3Ps/44FC863V4hUZd2wqgQ0X+Y="
+            "iv": "G5YxRvAZ6PudjHje",
+            "tag": "cCdU4vTa/1D8lMDayeeKsw==",
+            "data": "SdpSWK+mPRdPkoilWlsEK18/5qM82FoThYHYhEZYrA9d4XKAcVBwNkPGG5fBhgovUyFgvInwHwZSpck0K0IzdtQ="
           }
         },
         {
           "group_id": {
-            "iv": "EyhLdC4yj+uqZ+s5",
-            "tag": "0RYSPHQ/WO7fmoi1ZnfkKg==",
-            "data": "P1fpMCr/"
+            "iv": "75dNlmCcOFxuOFt1",
+            "tag": "t8m0kiOyZ8Uf99FjhNY8iQ==",
+            "data": "GXnE76+t"
           },
           "name": "CANAL 9 INTERIOR",
           "logo": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/1612/1612WCUADRADO.jpg",
           "key_pair": {
-            "iv": "vD0bUwzLgUehewz/",
-            "tag": "FaP8LwTuLIfOw9xqKF7XGw==",
-            "data": "iogX1ubzhsF/2cqdoTKH8nl/6aSrAJl6OjjhKMr94LdhYJXC7p7y/kB3Zq1w3eV7lUeEiJNutKrlnRzWeLEacfM="
+            "iv": "NBythlkeLPIim9Za",
+            "tag": "OcqpX0m+2HOyWJM424CfKw==",
+            "data": "VDFlb+uDd2a83fZhIsq9YJSlYRIlWJMXFS87m7xI1x8JTEZgIgATULIUYbrlO8imDBrXzBpwVjpSYqNG+nHIjKA="
           }
         },
         {
           "group_id": {
-            "iv": "tt+sCYBX+IqEX2zK",
-            "tag": "1eDNtmKkNscJh5v/ibu9dw==",
-            "data": "6gRm43H97A=="
+            "iv": "pG/OdOk+6CHe4P8k",
+            "tag": "Q61+TQtfL6rpork+K+Zmdw==",
+            "data": "51s7WlQXcg=="
           },
           "name": "CANAL 13 INTERIOR",
           "logo": "https://clarovideocdn0.clarovideo.net/EPG/REPORTTV/LOGOS/290/290WCUADRADO.jpg",
           "key_pair": {
-            "iv": "kYjpEbz7+si5c3NZ",
-            "tag": "o0gjogpnCGoooRTf8Ai46A==",
-            "data": "OSAihJ3ke628GypJdl3YE9kCFe7HdRUMh7cme1ZtasXSdibwcgz0xdvXdsXzDDXCA8K1NAnyhuQcqs9ifWQo9Kk="
+            "iv": "VLc0wN/GFU9+rYNz",
+            "tag": "9UYj7Tk88qouKQAQK9pfWw==",
+            "data": "/v+O/lg6xiXXH0lQK8B5TAQdCOwcWexLTOjNLBgedmyrfg3ogVTSSvmloi7+3Fzz4UGXMF3zGaOLKeX3atyh0Cg="
           }
         },
         {
           "group_id": {
-            "iv": "25a1RitfNVjY4sVl",
-            "tag": "12B2zHadJdPinrK7wc6w1w==",
-            "data": "Q3Jqr9k+8A=="
+            "iv": "4CuNCLEJxUg+oClg",
+            "tag": "QgQopeY7N+Sel+Chi/tMBA==",
+            "data": "tCISVGg/7w=="
           },
           "name": "NORTE GRANDE FEDERAL",
           "logo": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/8244/8244WCUADRADO.jpg",
           "key_pair": {
-            "iv": "xPXY3Cp5zc7TYGbF",
-            "tag": "V5i6RO0H8k+hqrdY8P+JXw==",
-            "data": "kxE71Z1Y8Utez8yK9PeMTijVkeUtsiHT/AkF2GoL2Rs3Bb+Xgpr9BgmEoVmMmWWNSWku5HiMKQpP8MepLyAGKbI="
+            "iv": "SckjD2rb+HczYcqJ",
+            "tag": "72CNG7iIKMG/AVtcCpyKSg==",
+            "data": "A1rtPHU40pBjH1xbOh5l7dDRzRDR0HWSXKodxDQrLpx4lxPtM8zVGW16cGzvoVxvENAfJ9sTxEibyJCJDJEwndg="
           }
         },
         {
           "group_id": {
-            "iv": "vSdm1G+V2NxiaEBm",
-            "tag": "ZwBpDUZwqulvGG/VHheeuQ==",
-            "data": "PDPJz+DRxg=="
+            "iv": "YrB63/X+0Cf2pqQp",
+            "tag": "BqWPVQwdCJZXaT5DOvPiEw==",
+            "data": "058kzAVALw=="
           },
           "name": "CANAL 7 SANTIAGO DEL ESTERO",
           "logo": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/1365/1365WCUADRADO.jpg",
           "key_pair": {
-            "iv": "oqXGsQNdB/XSRLGZ",
-            "tag": "Pz7nt6q48xXqCqg6AjujHw==",
-            "data": "0Ex7y7MTHlell6SIKa8ZT8++wY+M9kSJD8W0JppUiCVjKmFy3N4YKgwvDW9k8+7HHJzcWmIJJaA8k6WJ0yWWjrA="
+            "iv": "QnfLRQowpxstJtAy",
+            "tag": "5s3HeyM3+rLhOogyXlgScg==",
+            "data": "UlJCd2z2JZ7x9IdPNn9sqAjiOqHAIV8wPISXERBr+pjj3ubYvbdwgT6WUxbDSzFY2ZEThLFQpkw7aPl9A7FHM2w="
           }
         },
         {
           "group_id": {
-            "iv": "I0tOvmSkmfW8mjQL",
-            "tag": "22km1r+P4zeOTWT7FshP4A==",
-            "data": "lNxGqWB33Q=="
+            "iv": "1YZCOp+i32ISSnBI",
+            "tag": "RSFLIPfhBXhMobc4U8UPKw==",
+            "data": "sJJcdQzafg=="
           },
           "name": "CANAL 2 POSADAS",
           "logo": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/1464/1464WCUADRADO.jpg",
           "key_pair": {
-            "iv": "zjkEf2OcUz4ncCjh",
-            "tag": "68ldmaHC3Bsd0gm4Wv6HZw==",
-            "data": "RbSaf7vchcY8mbG5Cik6Ea/c6x/kDbvsJrMNuo10+4I9yO8uk69wGMvI71UF9cYRKP8oycATFLKFqEV5HoX8XkE="
+            "iv": "ewoNuHDeEueg2RY6",
+            "tag": "RZ2jrdtNSx130HG2mOIxIQ==",
+            "data": "WmDBD2ShsaDcliCZvVeM+97Z4hGG+jcLHR5eBH7yIT6YhxB65T8CGyS/tTiO8lRP4yrPx3WSeuWbHzvfwCIPRE0="
           }
         },
         {
           "group_id": {
-            "iv": "FPFWLv9KrdVfnKht",
-            "tag": "qyayjHSW4qAhRbE/j2zivA==",
-            "data": "WohJ/ramNg=="
+            "iv": "Uqms4GKD/UTlnDQ7",
+            "tag": "xw33vuZcytni9acNPx77PQ==",
+            "data": "5ccPNfpkPw=="
           },
           "name": "CANAL 4 POSADAS",
           "logo": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/4043/4043WCUADRADO.jpg",
           "key_pair": {
-            "iv": "D4J7y7PcBX5HnQzw",
-            "tag": "BM9fZhFuq9pYFrcWl6isLQ==",
-            "data": "1hpAO76t1O2Jhu21O6V1Ex0rAqlKA6ozMRNdtIuTuasjjVqOYMa8Kl9/FLFgQn6C2r94xPUrigNW3OvnQAFBJT8="
+            "iv": "Oo9wPJuzzHD1I4Xt",
+            "tag": "U56kUAnAZ1Aeok8bxfcAdA==",
+            "data": "d5TdSvrpdI1fJMOJGbaBUMJ6Byna5FvCd5/EeXbxb7JDlGirm/U6zBYOXwVMvFQ4iwoSUvggFuKTdJ3Fg9iz2Nk="
           }
         },
         {
           "group_id": {
-            "iv": "4sr6RyqWWIxICnyo",
-            "tag": "oQFp9hVGQRfpacYuGq37nw==",
-            "data": "S+OY96jQ"
+            "iv": "sg+mp/CcIOTC1TuI",
+            "tag": "1d4dKvESn3unuDrepO29/A==",
+            "data": "kSpKiAoY"
           },
           "name": "ORBE 21",
           "logo": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/8724/8724WCUADRADO.jpg",
           "key_pair": {
-            "iv": "4RVNZm2+wVou533q",
-            "tag": "9pvug0U2mfB2e3AylHer8A==",
-            "data": "rK25cJDAJwVvfcuUjdTYQ3jVtBBBfPWAW/URyW3SaUTTYKvEdoDfzLlZAM6crIvylxNmq1miu7vwjqef+1EPOVU="
+            "iv": "jfSsgW0sRlyZuDuP",
+            "tag": "kmC3RmxQrSvxyUgBlpXosw==",
+            "data": "RYwD3bKUPb8iqRQHb/qqGeG89NSdnaf38/+YEpc5OrkY/om7ky9XWC+nn8Y3ZNqLLbZvodCZMkmAzimsX4w0bUI="
           }
         }
       ]
@@ -1049,338 +1103,338 @@
       "channels": [
         {
           "group_id": {
-            "iv": "uQ6iu+QADx2CM7zq",
-            "tag": "a1bLgFxQSTIXjpgXuqbgGg==",
-            "data": "jwGGKD8QFg=="
+            "iv": "hsbXfx6N9/30Yp/n",
+            "tag": "StFCkAhZ0rau2Y2HNtPuFQ==",
+            "data": "Ozt1NRkuIw=="
           },
           "name": "CIUDAD MAGAZINE",
           "logo": "https://clarovideocdn8.clarovideo.net/EPG/REPORTTV/LOGOS/26/26WCUADRADO.jpg",
           "key_pair": {
-            "iv": "ognlUL0TIQq56CT0",
-            "tag": "WzU2sv2UoWkdqL/cAecp9w==",
-            "data": "Nfs9XTAF2iw963PVvIWXcDoW/1oQFMP/rm5mRMGVQGTysKzCT+VKx3IwNqNBWOldj49bj9WkF1BkV/0iyqDZ3Kg="
+            "iv": "BCdDJxWkZ/qk3/M8",
+            "tag": "ONK2odNPq9imzpninNSDCA==",
+            "data": "3WM7MHVSBM7OEKS5QDyPV/IDRO7s+ivOza7IK69/6T8yfhPEMEo4Y+P3xOGxhRzWCoaeHzdpKyEFuIDTLMTjN0E="
           }
         },
         {
           "group_id": {
-            "iv": "4jmTp+wMbisIvt6M",
-            "tag": "RZES2b8DaIkm8oQVDxQbtw==",
-            "data": "qgcceZPt"
+            "iv": "agcG+g7/OadiimPK",
+            "tag": "qKChqdGOzZYfyPNmOkaVjQ==",
+            "data": "W1qKcx/y"
           },
           "name": "CLARO CINEMA HD",
           "logo": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/9249/9249WCUADRADO.jpg",
           "key_pair": {
-            "iv": "HFj52sWlknLpCHg8",
-            "tag": "L+Q6fZLTHN+oj4C+E9hjIw==",
-            "data": "hZFSpC5tvdZTSPJI2bTxK03IiP88JkXVLZY/oMk0KSfud3QYGImzwIaZhAVXJ8FXWknQWnCK0Ge+ngDK6Cx5I1k="
+            "iv": "+u5mPR/+V1E0PCRm",
+            "tag": "gLWJ9kGl9/2YId8+lb4iYA==",
+            "data": "/Yq0q/8WxsMtPUoUG3vRSfTtF7BdQLObb2VzJC0zC6s/YvsmfECWMhRwW4e4tGhO64RMbi6kqiZtojXO4six8EI="
           }
         },
         {
           "group_id": {
-            "iv": "G1ja0y/7/x4Ezc41",
-            "tag": "leGC0/2XHUxpN3bsgkdE9A==",
-            "data": "20GOJbk1"
+            "iv": "TLGB4ACL5HpXel91",
+            "tag": "alLoHzTIpnalphn96ounOg==",
+            "data": "9N08aSfj"
           },
           "name": "STAR CHANNEL",
           "logo": "https://clarovideocdn0.clarovideo.net/EPG/REPORTTV/LOGOS/879/879WCUADRADO.jpg",
           "key_pair": {
-            "iv": "Sp/1FmeLWruUbJG1",
-            "tag": "QDSU/N+ccx09laDcytR7qA==",
-            "data": "syKLUKsNbHJsGUA4oy04Dd+/ONt+kFLwkrdwtSY5Jm9Wa3D4eDmjazHBRsHiIcRDaAQ2HkQwDLw3ACKBd/6d+ms="
+            "iv": "YOYmZKxiCjMk5cwf",
+            "tag": "B/l8RgiNV00MejEF3Z3FPA==",
+            "data": "sT0LZB1XRmKghpo7o+6iZg4D640jQUT5OGJNORG6WeVCLKNrqjug4s3rqFQakt7ZVm15dWu1at28HJWhpzb0cyo="
           }
         },
         {
           "group_id": {
-            "iv": "kN3ad0UN71CWEKR6",
-            "tag": "biE2sp9wM+Evr1Yft/E24w==",
-            "data": "gRi1w7Os"
+            "iv": "Ubx9ejWxc1fhEez/",
+            "tag": "Lu1wPJESrIN/9WQmzqKB1A==",
+            "data": "8XLHO/iy"
           },
           "name": "FX HD",
           "logo": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/2040/2040WCUADRADO.jpg",
           "key_pair": {
-            "iv": "g1njkKrc7F5KX5TP",
-            "tag": "0IbgcDOrY/3A+OXVi8GF/w==",
-            "data": "t/FNGvceLGT5Ope0NLY8r0OGcQ2irXksLgC/hJy2BUfN3JUdbkMqECLBh50xoNYsHbMBynKrToy0seP4Q9hN2z0="
+            "iv": "lb1BA4hO37XC7s6y",
+            "tag": "bIKf+afGc0h/QgxRJko+cg==",
+            "data": "bktwCm7udsgeE3Q0ziDjGlvSvTwva6Osu0pK0nSnQNAfVphWTm34IWCiAMcv+u6qZfiTJ0xxkP0JG+OIgfyUVYI="
           }
         },
         {
           "group_id": {
-            "iv": "KSM7GnF+DBhDAwnM",
-            "tag": "sklsd1iXOViUobrmWbvKgA==",
-            "data": "uzQ2a5FkjA=="
+            "iv": "KnQkZETCsVFxpVO3",
+            "tag": "ksv26MidQGrSSxV0DGQ1XA==",
+            "data": "d+oQfNaBRg=="
           },
           "name": "SONY MOVIES HD",
           "logo": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/7167/7167WCUADRADO.jpg",
           "key_pair": {
-            "iv": "344g2qSgfqMzIeHs",
-            "tag": "oI8QK8e12nmtIDWIrOVdgA==",
-            "data": "0PEKKDCyOWMF4HLdMDTgTAa0PcAclAnfT4GZaDsICBBgyq2+93qU+V0BQWzr511HZQ93ZNDxuDUe8eBXYrkoC1o="
+            "iv": "7e4yiwyBpBFtAH8t",
+            "tag": "s0rJPlNazKY8w5NG/Q2S5A==",
+            "data": "8IBSeEmPXeuyfYvRkgPu4yKOxwaTnwoi9rgM770wyEKqyjJokZ0TAzTVFXdHEInkZVXrJk5P/moyx/aKIil8frM="
           }
         },
         {
           "group_id": {
-            "iv": "s8E8jLxYGh07CbcF",
-            "tag": "B4mNmWv908e9C/exaej9SQ==",
-            "data": "IDef2q6O"
+            "iv": "73tuUiXCzCLl0nY3",
+            "tag": "FLGW8obNbBRopEzkILgwUA==",
+            "data": "yAbog81O"
           },
           "name": "CINECANAL HD",
           "logo": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/3445/3445WCUADRADO.jpg",
           "key_pair": {
-            "iv": "ExWKub2m5jU7bbrE",
-            "tag": "9qtPf1C+t1elwO/aI0K1RQ==",
-            "data": "BOEtQ9FDnCUAqMBxFNJV1jgMcZasDiU8RL5n1T01imP3w7yntg1mSHYZR1A0UNBnefHBD/SY3ZUdGHpj2GdSImc="
+            "iv": "noo2RQMs5gTGJ6CG",
+            "tag": "fyZ4Uqa8ATfptzLtnt275A==",
+            "data": "AHxPznyMzFry6M0G+twuFMLokR83GnPs7YCca4H3WvY3W5rqK96LcLggYC1soJ+KsP1yeyMkW7C85X84WC0KeDo="
           }
         },
         {
           "group_id": {
-            "iv": "nhsIRQG/th8XtqDq",
-            "tag": "3OOh7S+tzJZDJ4OSYEGbjw==",
-            "data": "XlERSBNa"
+            "iv": "G++nmGyRUjDW/UeX",
+            "tag": "dsVEhXZ57PVm3KIo5/+nBQ==",
+            "data": "gGh5uAc8"
           },
           "name": "TCM",
           "logo": "https://clarovideocdn0.clarovideo.net/EPG/REPORTTV/LOGOS/328/328WCUADRADO.jpg",
           "key_pair": {
-            "iv": "9CrCoyRnIttab4Kv",
-            "tag": "dmL4NPDsOqZ/zgNSJDjqRg==",
-            "data": "HYU4McFQ+20+Yh/MucyULMQyFhU2VIOrHWIsggU+Hitli5wd5RAXeRBqRJnDG6jX7RVdOkALFH6VsPePacYxWR8="
+            "iv": "hFWtv6l1r/rwdIvd",
+            "tag": "Xkh52gL+MgQXT4wFxmJPxQ==",
+            "data": "ToMAWGp5sCmbjApk5nOmhU1+AGR8mRor/z8TvXWvr9jIpkUV8cmGau04X8KdZBP1g1g525h0PsnjkY04ivWrHIw="
           }
         },
         {
           "group_id": {
-            "iv": "Muw9UqEzKTKXpSO+",
-            "tag": "VUL0cjvkW6UDHIc9NhaUPg==",
-            "data": "Cs2lx+S4"
+            "iv": "lhxyfCCffWZgaEcY",
+            "tag": "Jd0pfn9e4QgcFgyLPdRkDQ==",
+            "data": "qHPT+/fJ"
           },
           "name": "TNT HD",
           "logo": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/4230/4230WCUADRADO.jpg",
           "key_pair": {
-            "iv": "H1LyS5Cg6lhzttPK",
-            "tag": "TpBG78F2DJNZSKtJEMIvoA==",
-            "data": "cC+WcqLiYd7rx7DUsjil6spa9xaOED2iDuIe2igfsORfM7r4bIfs0Nq8Nu5rZQR7wB1LXnuUxnT9BMSAFuUND4Q="
+            "iv": "41gqB/yU83jzTHE8",
+            "tag": "s1/LAqO4CYh4744sv7EHGg==",
+            "data": "ytPKrFV1sgOWkZW0oj8bYv4CvOve6y7q1Y0xZpVotM7b5wGJzJ/TTEu7SEhOkjS78wvxwDPQ2GHj6Y7RRcUyv50="
           }
         },
         {
           "group_id": {
-            "iv": "q8lK8jY6RhhZCCMU",
-            "tag": "DuOb+aWxVDAn8qm/2VGP3A==",
-            "data": "ft+gy56/"
+            "iv": "bDctlRxWwp7zDPSI",
+            "tag": "xZybX3nfiQZw3QU53GhCtw==",
+            "data": "G0U/LyUI"
           },
           "name": "TNT SERIES HD",
           "logo": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/3421/3421WCUADRADO.jpg",
           "key_pair": {
-            "iv": "1yc7q+9Ssuo5wbrR",
-            "tag": "koPUF+/3WREAK580XZSaCg==",
-            "data": "jmSryuUbBILUmY2nJUhgPSxA/eSDsZEvg8LYw3TLeGgCwfZYPuEBYwVAN1Pm1Zney0aMb+TZHllqqp58EjW8SDw="
+            "iv": "/t1hA7rXbUZtYlgE",
+            "tag": "7BIbv7PPIBYYDpbbkyAL4Q==",
+            "data": "yL5hVVbBg0/vkLH9fOZPQ1/dw8j64HsRscSqsiFtL5eea+x8/5U+EmK58v+Hj66D9mENmqFtQ83gnF/oKfbw2Zk="
           }
         },
         {
           "group_id": {
-            "iv": "ygF3wekvTs7vC1dv",
-            "tag": "nq3dAkHNC9bW18g6pUcSzw==",
-            "data": "zKYLMUKK"
+            "iv": "IJEhi1zu+fKGJFKZ",
+            "tag": "+Ih5tlsyvpjBASENSjMo9w==",
+            "data": "1PCPTVUH"
           },
           "name": "SPACE HD",
           "logo": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/4535/4535WCUADRADO.jpg",
           "key_pair": {
-            "iv": "LzlVyr09RQTOw6SC",
-            "tag": "B056t/dYG9wjnLoyd0wDew==",
-            "data": "deGk5005roaiEhlGlOEFHysZSQksE6rOy2Fjwjvg63B+IhOQkW4FsNynUyyypJ7ML+GoubAv9iHK6vw4isQdpEw="
+            "iv": "kgIMc6FRN+7ULeUu",
+            "tag": "rda+AzGIA4+uOcNlfuw40A==",
+            "data": "I2uSl8fGwlKyxOGxrNrQ1kyG3FHq7zZtYABd0mCDBWi96/1+Fuxz20EATaUP9uFzBd12BY/dz+TzQe+L1iqDIP8="
           }
         },
         {
           "group_id": {
-            "iv": "lG+zxFcVUf9kZt5r",
-            "tag": "muySjnob6WzHlrRUhFb4QA==",
-            "data": "NfpuF5Ci"
+            "iv": "UH0+q3IOKD82Bxey",
+            "tag": "UzcQL9hhoCRPPhxNvRNi1Q==",
+            "data": "JneHq1qq"
           },
           "name": "AE MUNDO HD",
           "logo": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/3826/3826WCUADRADO.jpg",
           "key_pair": {
-            "iv": "BBtgKg/lwL8Ppk4A",
-            "tag": "J9dpjpjux/AQf6w+Ab8Aug==",
-            "data": "0qJajIJburH7yfNW8oXjcgpGh/UilB5Nf0LtV4FiaL1ESk4sk8OJcUYvS48gCfVFCYJR68v8FmWaLjzX/9Z4BZY="
+            "iv": "Wuc5rD526ddqExRM",
+            "tag": "KtvqNvbjeAYxUF69wzUI2w==",
+            "data": "FSzKMl0F1m7Ffxq6QvskHQ2BH4sL80WsfPxp9qSMMjltMPJBrnPCK4COuWuSyuaVkUNG1mrp0slVsd3JhAH9UJA="
           }
         },
         {
           "group_id": {
-            "iv": "wOEFkTo+TsIgqr8H",
-            "tag": "ZpaALleU1sl8l00DvAOA2A==",
-            "data": "kVMSTkxb"
+            "iv": "Men3zH6vuonEIep6",
+            "tag": "dBq+c+RYR5eIDmkffaSd9A==",
+            "data": "6W2MunOs"
           },
           "name": "AXN HD",
           "logo": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/1862/1862WCUADRADO.jpg",
           "key_pair": {
-            "iv": "xAxBjoWdo5+/BfDQ",
-            "tag": "809A2wVcycpSx3fjoa54uw==",
-            "data": "8jQAYcGx39tITZdGIpWyPH6N03UW1jPrnSHuUn76PgWfeQIu9lZFemR5oWs6AICQ5GaIvdX+ss8t+WorhFDX4ac="
+            "iv": "x4HOI9gRDcgzlxRJ",
+            "tag": "m7SQY39Xo7HTgn7f4phgYg==",
+            "data": "pi4iPt/gIC0NAbpD8EfTSWoWWzjO8qgzRYn2Q5NLCvoNp9G1LSUizAOKHVR5vdJ+6sUTlv9ReEb82tI3swqvRs4="
           }
         },
         {
           "group_id": {
-            "iv": "2p2TPZwwlp3gguOF",
-            "tag": "zzX3ulP/LsmHa7iJV4drCA==",
-            "data": "cNT3hgLF"
+            "iv": "20PZx+qm+3AVCPHV",
+            "tag": "WBjmthgjKrYobYEHuTAwLg==",
+            "data": "Ihy1FYb+"
           },
           "name": "CINEMAX HD",
           "logo": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/3142/3142WCUADRADO.jpg",
           "key_pair": {
-            "iv": "vM36JrI4BTMK/mqz",
-            "tag": "pBvPUAw3AAI3KQ6cR7TLMA==",
-            "data": "PdjSh+8mVAdQAdL3+eg4BIZIoBjE0jl8d0BoUtN3wPu3Dfdi94273h/fj49pbWvTUYXcF3nciJtX2q3p2pu1Dk4="
+            "iv": "tTKJOy595d08R6T8",
+            "tag": "16YXpUYllx3UweHxoEqyaw==",
+            "data": "9Ki+L/tBqK8ebproW0ms4QfAZ9S+gUoCBhGCoftXGrSWOvoQmjR4XnkdNA9rJ/Zpptf33o/a8NDCgbWfOCL8+J8="
           }
         },
         {
           "group_id": {
-            "iv": "FH5JoA5jy3gOoKYf",
-            "tag": "Os+kTTxIEDE8GEebuznIPw==",
-            "data": "30yZB+MM"
+            "iv": "i/nztqdgl3Zaq+vj",
+            "tag": "S9DHAuMshqK/W6B5VENCZA==",
+            "data": "33GPi1/5"
           },
           "name": "SONY CHANNEL",
           "logo": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/1579/1579WCUADRADO.jpg",
           "key_pair": {
-            "iv": "NYWgtW1dsL6HvkS/",
-            "tag": "bsOuK2MEmKBJu5rgV9AR1g==",
-            "data": "jCvo1Ei7IodN3vh3jZ3EIG1GeyUORy6tfs/l1MH+VmX0bZOp+tBkDbthU4aanbnWsFewPuS3JcgXukFD6Knl4cE="
+            "iv": "iSh7cnAihj27KksC",
+            "tag": "4SgEaEGTx7GXGvx+MTPYiw==",
+            "data": "A1JrYxsISVbI2cAXpBBe7AIL5WOTdxFYOSF/ahk/ae5NQSBCc523EZ9yslvwYLruVKugDJRv3hbnrY5mKP+WXnM="
           }
         },
         {
           "group_id": {
-            "iv": "r42klr6Wp/Pw2kSS",
-            "tag": "nR8QmlGp5+eR1FnziUGYVg==",
-            "data": "p3LOTEpu"
+            "iv": "kZ3MbVXLcSQZ8I9f",
+            "tag": "xMB6si1iKY8h1H5U0LnPKg==",
+            "data": "oLx0wI39"
           },
           "name": "WARNER CHANNEL HD",
           "logo": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/3787/3787WCUADRADO.jpg",
           "key_pair": {
-            "iv": "dQXOhXre/eoXdqv1",
-            "tag": "q/pV/g/89CTyWG5XoeYr1A==",
-            "data": "sMJd8EvAtR+DhuYKG3tOjUuSg0IrqwBbUMkmA5F/pnR2ViSbRVnuUrKIIjlI8ao7MBYWYuh5R+UEcZ8nzUFaJIE="
+            "iv": "ugU4hkaPm0q42xhy",
+            "tag": "zY1fvpPeAF/Mvw2yG47snw==",
+            "data": "id2XGjbFBd1MLRttPsefhlUz14j07/Nx1uwvn3bGN986UTiVaL6yuBSg5bEUDRtHOJNqzVBxztB161qZrvNqWfc="
           }
         },
         {
           "group_id": {
-            "iv": "PBS9m0JlUTZoBdb3",
-            "tag": "imIIoW5rrxrpmsYuTpUQ3g==",
-            "data": "BV3xsLtC"
+            "iv": "LEyKK7Z4RfGbFzi0",
+            "tag": "3inz6FhbKkxljvIWpnjHCQ==",
+            "data": "GV+suGrO"
           },
           "name": "UNIVERSAL HD",
           "logo": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/1508/1508WCUADRADO.jpg",
           "key_pair": {
-            "iv": "/IJCed0a6GHKp6t3",
-            "tag": "nsWh144HTPRDf8qtxz3PIg==",
-            "data": "FnrHohoIlVGdok0lR+3gpf5+4CFWr8IqC1aopXZyfjxYqn7xflwbjjOK6FXEuqiaZ6BGy3ZkAztWFzGJ9CW5CGQ="
+            "iv": "j6hQEdvtZeaUO0uW",
+            "tag": "ge3u2r8AEpV/ksLamgyvMQ==",
+            "data": "7Q+1HwW26Lzre1/XBe2nhye3s1U95ujog8vV7te4c4/sfTfypeMeUxPVRfNxEwZ4H//yDCHDA4X5hBnZZXsCKa4="
           }
         },
         {
           "group_id": {
-            "iv": "EeQ3FBzamI0YwApw",
-            "tag": "KlfOM0Ch5W2Q62TIFHN1Cg==",
-            "data": "gv68yJXe"
+            "iv": "NyMxEYddd+86Zk4a",
+            "tag": "nsPPa/EaZ970h8kobHG3Xg==",
+            "data": "QtrGq/2u"
           },
           "name": "STUDIO UNIVERSAL",
           "logo": "https://clarovideocdn8.clarovideo.net/EPG/REPORTTV/LOGOS/77/77WCUADRADO.jpg",
           "key_pair": {
-            "iv": "iK9IYfiwR5ndJj7C",
-            "tag": "+4C327TLT+B6FfdmYIhoJg==",
-            "data": "SEvPGFAJNwY8B7yQWqy7QCuo7xPkGDbktY3vMlj6qw4ihaL5/cjZY+k1oEfDVL+OI6iOifTYmwddEn8bmwmJX4o="
+            "iv": "oE5jFTahOgtmL9y0",
+            "tag": "Nv1Qm3jcv8aLALIV9dELDw==",
+            "data": "oH9HXnqFVGYZ5C0dwlSABnv6HSn7qZOdHcMsy6vNHDG4dV0Cwjn4X7vW4XkYI2DdUyf3njwLYV0fM/ADCKMSGZc="
           }
         },
         {
           "group_id": {
-            "iv": "+SzVJzbPQadJVr9C",
-            "tag": "2PIIyI/eCbRTFzD/+0mpew==",
-            "data": "apPKvEIs5w=="
+            "iv": "+2PRpHB6Gx7cCPfJ",
+            "tag": "yw6ZfufKpTE/8Rf2swenSw==",
+            "data": "+V7l4+IRZA=="
           },
           "name": "VOLVER",
           "logo": "https://clarovideocdn8.clarovideo.net/EPG/REPORTTV/LOGOS/45/45WCUADRADO.jpg",
           "key_pair": {
-            "iv": "U4ZJ9hclGBQU4ooa",
-            "tag": "4bNAZD3DgwNVNwoLZh+Tdg==",
-            "data": "to3Av/FTVvIkc4DasHpKC4xapEO/4lVkeP7EVq/TypbU99DyJSHL+U7y9gefecBvJkOyMI0RyawfRY5tsevO1O8="
+            "iv": "SYpvjZ7xxFIfL1d3",
+            "tag": "keJ2hoTyQuLUC+KGM+JMIQ==",
+            "data": "NtThPxpP3Fyfw1EGgIPkNBcsyrHnXBnSVtISAy0KKoFik/NTAG37T/MOS+/pbx8YC2RCJBHm3pTDJUvTDrVLcUo="
           }
         },
         {
           "group_id": {
-            "iv": "bitI3LYRbxkVEQZZ",
-            "tag": "1Zdjays8aAz8JG1+SLuuZQ==",
-            "data": "NUfwmeRi"
+            "iv": "mKpBOQ4sKFe3jJBX",
+            "tag": "wC2pHWldfoyxWftP4gDKrw==",
+            "data": "i35xNb1K"
           },
           "name": "ATRES SERIES HD",
           "logo": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/3988/3988WCUADRADO.jpg",
           "key_pair": {
-            "iv": "pedMd8R7EPAVDhiH",
-            "tag": "bvYfRzzkhyIZ7ViOCX6ILQ==",
-            "data": "ZctxvOJ2aUn0NhHlocMUPAf34EaecI+ny+IpHYqaBDIrWJAJVLTrVxV3/GB6KYfL3rlTbE6sXFmnVzcgxULMDlo="
+            "iv": "0NY0CPAHxrqeO1c7",
+            "tag": "Wl7MWMHDiHvRDusts0h2ow==",
+            "data": "Xw1bqheSNxqpmoHfCWCZQ8+eMXVVt+BChH34Cc8gUiMHXKoxZ5tKl9777DMEA11l7m4xp7+Dt1Cgji5t1b7vZJY="
           }
         },
         {
           "group_id": {
-            "iv": "TMJ9ufdNBTkx65xn",
-            "tag": "9FAHo354sfUT88VRoEo64w==",
-            "data": "+Di4o66+"
+            "iv": "U6PW+hLHzO7jo1ht",
+            "tag": "6e18fbkmPuRG59WhArIOBw==",
+            "data": "6YHKG0cc"
           },
           "name": "AMC HD",
           "logo": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/1250/1250WCUADRADO.jpg",
           "key_pair": {
-            "iv": "4hYuH8H1j4h1XN8S",
-            "tag": "E+HJUcEwu0MGxH8/BeI8nA==",
-            "data": "EDZ7tfcYVjK8r+T9LTQB1i48NXZ1UmFBmgzO+/k4nleUjBmArTgj7u8ME23EaM1LKx/wtI2jqGgrjuoVtGuV5+Q="
+            "iv": "5QWMXVMYXcfQsjXe",
+            "tag": "D4tr1BJF30mTKrwm+c7xCw==",
+            "data": "21SEujM2mTo8w9d9vBaF9Yj6sw/4YvG2LgSdUliT1lPhT3p8wKBDMZMKOeYto+rIq45jlvkpbLpSAMdUy3rOXxM="
           }
         },
         {
           "group_id": {
-            "iv": "hYI6JRbee2gxykFZ",
-            "tag": "mTrFFj2J3v246r+Y1JJHvw==",
-            "data": "3EIBcZQ96A=="
+            "iv": "4a+ERLfLwPqRJVxF",
+            "tag": "Imscmv+u7+kxmpjhvtaXag==",
+            "data": "RZBV6wLNNQ=="
           },
           "name": "AMC Series",
           "logo": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/3390/3390WCUADRADO.jpg",
           "key_pair": {
-            "iv": "lIvgSSLd/dvWx2cR",
-            "tag": "PAPaz+xKQHvA7G3JgJa94Q==",
-            "data": "f5FE1NzdpZAplal6s/s9aJpYhzYOnsYMhaAb6TIugTSKjmeiF6ARO2qvHDzzpmxKCAVjZGmyLprIYJ27iTU5MFg="
+            "iv": "MBcp4q5X3fS4okZ4",
+            "tag": "epO+iXCgVVh/zvRevERV3A==",
+            "data": "eZKgGxKPi/XveplMqs4EI8dNPbSV4Vk1srjlqYblYQJQmSMijmfx+GC7FsepnI7Xb4Vo3X0VA7wtgenvwWmhKak="
           }
         },
         {
           "group_id": {
-            "iv": "8fXlrrHkHNpGGgp1",
-            "tag": "di2caLhz5d7MQ+t8A+nGrA==",
-            "data": "zzR8Zrgp"
+            "iv": "O58cU1P/Ih8+t6iy",
+            "tag": "6RJRiyGe54KEv3v6Ksk+Ow==",
+            "data": "hPpBcMao"
           },
           "name": "EUROPA EUROPA HD",
           "logo": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/3478/3478WCUADRADO.jpg",
           "key_pair": {
-            "iv": "NW73aaHu1+ZBdTfQ",
-            "tag": "GY+q/JRoNZnBAt9tI35/0A==",
-            "data": "YO72CFSBHltb62JcXH/HX3VyByN1bF5PnM1kJHLBf6d1t6tIT+w62J/MBloSS4NPnbtYAvvCs+PcHv209FTED3Y="
+            "iv": "bmnAQXOPISc1baJu",
+            "tag": "oZDhAkIyJxxPxPGQPGscOQ==",
+            "data": "+VFtSyUBoIiwppERU+70+zFXablLMitoRusGJdezWyNyMqeMW3dOu10SUhXO9WVckDtbURkWtsu3kMYaCgM1/wM="
           }
         },
         {
           "group_id": {
-            "iv": "hR2FtialhAcSrrkl",
-            "tag": "VdNiwa7tR0+VSrN7hr+ZLA==",
-            "data": "rrleb1sB"
+            "iv": "QUHFPmrOZ0M6xb0r",
+            "tag": "dOhY2Z8uw3mc24mwhWfB5Q==",
+            "data": "+GlvaNcn"
           },
           "name": "CINEAR",
           "logo": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/1605/1605WCUADRADO.jpg",
           "key_pair": {
-            "iv": "8Hws+1mbjTJ+Gei7",
-            "tag": "/ZjV2wuASKKEz2t+A5GF5A==",
-            "data": "bYToTVP3dMOZOAsTBj7sfrYr8tueHojSqSK6Z8KCch9XP9j99P+/AG54qfDz2dEieA+aIVajHLoeHDqaknrdiXw="
+            "iv": "u8zkhO3gTKBvMBMI",
+            "tag": "PxGiI37vl/PKAm03mQ+22g==",
+            "data": "SOevTVR7br92oP42xQqwYAUJyvpagsOeAwf3njJATY1z+GOONUz2T78vYWuuyynnla0d7ZIe5cheZa70NES0DPg="
           }
         },
         {
           "group_id": {
-            "iv": "gLhPUKTQlkFKbH2u",
-            "tag": "IixHwD8/BB00JyxBhwjxNg==",
-            "data": "NqYZhQEK"
+            "iv": "fwP7wPOH7BtNMWqG",
+            "tag": "dMfC9CJ/yFWoLUnADbFo7w==",
+            "data": "SUFebEHj"
           },
           "name": "E ENTERTAINMENT HD",
           "logo": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/3675/3675WCUADRADO.jpg",
           "key_pair": {
-            "iv": "qlT168SLypAIOHYD",
-            "tag": "cAOYj8Bu5ivf2wn3sybDqg==",
-            "data": "tfBnOdPEPH/WFrXHJnxpzNs6SQKrlGr/UPnlv1zNmGBCA1lBFdXygnMwRI0BEXKquQmQRB2yDUuEdPEejewrn+8="
+            "iv": "gg56SMFoW6u2GDKh",
+            "tag": "tuWCxJ6qykHLJzwbWo011w==",
+            "data": "FTHbmSRe/ukM8iGavR6XiGC335Uki1pQRU87rRMxN3DRIilkziX/l88rCs77JlndOBz/eW0x6olqx24a0zTmBB0="
           }
         }
       ]
@@ -1390,58 +1444,58 @@
       "channels": [
         {
           "group_id": {
-            "iv": "Fg0Ct28apGg3GMoH",
-            "tag": "MmJFLmlGmiXfxofgZHBHZw==",
-            "data": "xHrDpbcw"
+            "iv": "3nhFQw5JT80wau7w",
+            "tag": "6jPI1L4d2rfnxRYsjTrLwg==",
+            "data": "TFKaYXHZ"
           },
           "name": "TELEMUNDO",
           "logo": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/2827/2827WCUADRADO.jpg",
           "key_pair": {
-            "iv": "SCyc+d0RlwWewQqk",
-            "tag": "H9NKQTAAWQM6LsyuJOw/gg==",
-            "data": "KJ8jaZ5ILIuSj+vVmFY4JXBUtEDI5s0FhftHHSdNQ+GXW+tckrIeYmclY46jeCUN5Xi/uhPIuBF/cYYKizW3Osg="
+            "iv": "4dThJuCgAxc1nwaT",
+            "tag": "pB1wEIebl1zFYUhsIDhCDw==",
+            "data": "RCyLT+766LMsIk406L8Dj5kuszK8vYgbw9OT4EgysAUibcVDhbXg3QU7FmZziOhI/XNmKh41KFEIp4Tt4zPTWso="
           }
         },
         {
           "group_id": {
-            "iv": "0rJt/eIztSY64vdh",
-            "tag": "KtJkp1PaO2dWB98vtAa6gQ==",
-            "data": "I8pOeF8k"
+            "iv": "Wzb8gOKd5NzxfR2u",
+            "tag": "yCQ6shDbxFZhHVjh9IaaEQ==",
+            "data": "BVUotHae"
           },
           "name": "RCN TELENOVELAS",
           "logo": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/1060/1060WCUADRADO.jpg",
           "key_pair": {
-            "iv": "t6jQgAN2RG3gVKqu",
-            "tag": "lvP+DkpkRuNlXIaVU6qLLw==",
-            "data": "knTvlZj6cLRQ6Pqjz3hFVOHtmq4eeKOCf2lLgKJai1nk4DTCpbzd0doHLeV6N/ZCfLDMLq+iLZ+fkXp1Rq6Zfow="
+            "iv": "DYLCfcE5bG3t/Oqb",
+            "tag": "+nTTBZ3mxC6bzCKjasi3Mw==",
+            "data": "iIQrVSb3h15o9JoIaoA5/UdKbQLK7CDxXTaM3uU6ZjzFd17GpNfaNrQoPuGVXJansGGAgE4skSoXmvn8zU5aOTw="
           }
         },
         {
           "group_id": {
-            "iv": "PPOKDdcGcP4FlYlz",
-            "tag": "ddZcKqwDCwMD+J29YjY81g==",
-            "data": "gzEIrSor"
+            "iv": "LrinBDGjAgchwho5",
+            "tag": "h9mpUz0zkULOBqV4obw99w==",
+            "data": "XuO/ol3F"
           },
           "name": "PASIONES HD",
           "logo": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/2217/2217WCUADRADO.jpg",
           "key_pair": {
-            "iv": "MT/sWJg+3SBBNzeN",
-            "tag": "oR/JPMvUNfH/9moA8Nl2iQ==",
-            "data": "JmOFol7Lh/h9DS79vSPcVwo1RJSM4OkduTh2stsbclROV68FZ7dNqpCsWAizdHp3O/M/amd+QR6jD5B2agYT6ms="
+            "iv": "vfzVvewq1pgq/EXN",
+            "tag": "5HPhI8Fwwbb6BfajumuH3A==",
+            "data": "vaCecZmSycl2sxbLFR766J66bTMfhI9tUBBekyLDXOdkahWlTnpHHStEH5V5WBwjPteuP9JmuVqFJrUZrNYOb9I="
           }
         },
         {
           "group_id": {
-            "iv": "wZsHIf8FON8AGGSN",
-            "tag": "kk7QyGQlNHXzyr+0eEGYIw==",
-            "data": "mIuYhLgA"
+            "iv": "zTp7hHyt1Lber7fC",
+            "tag": "btpVcwia5M7+x96JF1ikig==",
+            "data": "3UTuls2T"
           },
           "name": "TLC CHANNEL",
           "logo": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/4909/4909WCUADRADO.jpg",
           "key_pair": {
-            "iv": "BGQPPVgP6rRrooCZ",
-            "tag": "ZKsv2eM12omlc0f/QYTc7Q==",
-            "data": "4ZEIwPIehZ20HqHGIe5mib6QXN3RCpz9vzu2rnz6WafidnwwGVvWCFcmDuX9HC67qjrNbi+Zrqf/r4yKdOd5+qA="
+            "iv": "sWNB5C7uuljoheBL",
+            "tag": "ccrS2V40WaevLVX1J1Qc/w==",
+            "data": "BPnGnH4tEE91afWXNiMPr1lk4qCQpGf2Rzi7ezzSfMTRfE+pRqasX2cXnSkzTgUs+FdfSBfVtraOTD0TX/qlqRQ="
           }
         }
       ]
@@ -1451,128 +1505,128 @@
       "channels": [
         {
           "group_id": {
-            "iv": "ddhJEd93srPYProb",
-            "tag": "pczUU7Yttpf0krjWoElfIQ==",
-            "data": "01E44uUV"
+            "iv": "+zdX0rDaSKHH1MEg",
+            "tag": "5v7qSVu9gu9K1jjlHWDYKQ==",
+            "data": "xhEfymM9"
           },
           "name": "DISCOVERY KIDS CHANNEL",
           "logo": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/3531/3531WCUADRADO.jpg",
           "key_pair": {
-            "iv": "iBv2+ou7T9d1fcXU",
-            "tag": "kcurFxTsVFzDqe+LvFQdpQ==",
-            "data": "HhvXDGowAIPvgYxIZz3pTGFOvaYY3ISfvZNj7NeMHo/L0bFsufXUflHMcw2y0aPqQSWZwubw8X79SLG8XAPGXQI="
+            "iv": "jjUjbVLNfiDSG0Qj",
+            "tag": "BXm4vDGuVvfY7CPLjzuwnA==",
+            "data": "60gl6tbmSN6t8d/H3ZzKTeMqDCN7VdaulaKNV3uPWm4KuPX0oFb8qnmjiXKSOusKKMb9JTUE9c9mW6FA4/eOlIw="
           }
         },
         {
           "group_id": {
-            "iv": "RoGcCh+3h0ZMN2WE",
-            "tag": "fTe8LGF/JB44z6NoXGHCiQ==",
-            "data": "dlP3KCzF"
+            "iv": "Vkoq/B3rxC6Re3Cw",
+            "tag": "+jen0lT0ceQ2MtsjgGz0NQ==",
+            "data": "CFyKDkJC"
           },
           "name": "DISNEY CHANNEL",
           "logo": "https://clarovideocdn0.clarovideo.net/EPG/REPORTTV/LOGOS/136/136WCUADRADO.jpg",
           "key_pair": {
-            "iv": "ct39m7I+Uxzl6Y4e",
-            "tag": "NbJ9v/NADqhRmY1bk1lhTg==",
-            "data": "Ez6FrabmbZypoliZFabmRgQ2yliMeq69VmCCviWKSudnJjIl5jB281M/MttLkR6+GuGDMfUknsa1Ww4SDm173+Y="
+            "iv": "QhxK1N5aPNRgDI18",
+            "tag": "FWE5+0HmncN4YWXGU56O+w==",
+            "data": "iJOY6h8FxiK+1TjhxPdRN+Jiv+hlg/VX8P14oltvB+DXGqfdfh4NTSkWCLjroth4Cm4S377ecECAr1zzFFT3xJg="
           }
         },
         {
           "group_id": {
-            "iv": "Uhon+wc3VJHk1IWw",
-            "tag": "V7Fd8qClxu/akb87B1BhuQ==",
-            "data": "hXLwYFGO"
+            "iv": "NJJAZbDYqdRZL0hJ",
+            "tag": "vYRFj7zobs47ZEwww/n9zQ==",
+            "data": "VEn7XoSt"
           },
           "name": "DISNEY JUNIOR",
           "logo": "https://clarovideocdn0.clarovideo.net/EPG/REPORTTV/LOGOS/756/756WCUADRADO.jpg",
           "key_pair": {
-            "iv": "5PjkVPWzSLDD+IHT",
-            "tag": "xiKIV7w/nTYDkep1c/6Fxw==",
-            "data": "OgDi/hRtmzkfXmEGg9hgLkEvVlo6Tpr4/tXIcOkyeRKzYjOUuoB+hfYM3g5NGuQ9nCg+dNNRJhYeDGAXKWu84XY="
+            "iv": "TI7jWEQwpJuUAhFp",
+            "tag": "7TnY78XPrG4BQ5w/VPDqqQ==",
+            "data": "PKy0uJQ+3SWsgtBBjexE5k8xeDE6q/JAitJR5464CFiTMdKeHiDjP/VhvaBLiYwWW9NmDk4Qic9szIAoYAdm7eI="
           }
         },
         {
           "group_id": {
-            "iv": "VDyp4EFbMqQd0dgd",
-            "tag": "AKo8kTnGrHeNyDZp90YjEA==",
-            "data": "gZLTmdMG"
+            "iv": "Ljv8prfuYFAl5M7u",
+            "tag": "HMFbbhG6wq1yAcdJIoDNhw==",
+            "data": "6uqYTxgh"
           },
           "name": "CARTOON NETWORK HD",
           "logo": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/2845/2845WCUADRADO.jpg",
           "key_pair": {
-            "iv": "WQp+rs1k+pwndtEK",
-            "tag": "/AP51tt8+hGKkFo2CGXTFg==",
-            "data": "3xqJHYHevr6LyLCXriUfo54at2DmXEdk8/zXC2uFiB962fQ5h6YNxHxU8XldKX0wo2g7VeUwTjVKJaDlTCHf9Rc="
+            "iv": "3qffyqYCUV74l5F8",
+            "tag": "cgmFZDzizOJnrAAF/zvqqA==",
+            "data": "knmjl605gF2IVmtk0xFMSI3aH9nrFfUCEFHrWwWbqs2yJgWedixp7RnvLbjOaVNup39TRPzZ9lfXvQ+9zZCkTes="
           }
         },
         {
           "group_id": {
-            "iv": "Ohn3FStd4kl4ggwB",
-            "tag": "8q+46KAUMWcV8XtiAX38/w==",
-            "data": "5LF4D8eQ"
+            "iv": "AnV4qltdy2SLYy/N",
+            "tag": "Tt/DkTzXTGoXvdbf4n+pKA==",
+            "data": "nyo5H1Cy"
           },
           "name": "PAKA PAKA",
           "logo": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/1492/1492WCUADRADO.jpg",
           "key_pair": {
-            "iv": "dzGxDEFLiFlEFeX+",
-            "tag": "sGTcR2PsKMA5KJjXkYIefg==",
-            "data": "DGZgB+Z7a58AE2H++Og/jYou3IBrKuWkkPemHdH+EIdCccpa04iZQ1iPlbChhrAyiyHle2nXVxTi6q4dh1CwFEU="
+            "iv": "v9DzlBWRlkIX3jGz",
+            "tag": "PwakjhGON1m0EAm+hNc0Hw==",
+            "data": "flz6wY+V96LZRi3A+VgPuLEi7o9IVFknHqpH67YBZHsTH6joM2zN7OEX0T9q7uQbad4gpGp9z7KnSIgT0zlK7Ww="
           }
         },
         {
           "group_id": {
-            "iv": "Mhg1AVuq4b4s5Eq+",
-            "tag": "jnOBDe0dxCz7I+yNxwuSmQ==",
-            "data": "lNk/cH8C"
+            "iv": "J0ZuTMJGTgytuQka",
+            "tag": "3w2Dok2AAWl2U8+9Y3PhpQ==",
+            "data": "5tgU5Q/3"
           },
           "name": "CARTOONITO",
           "logo": "https://clarovideocdn0.clarovideo.net/EPG/REPORTTV/LOGOS/453/453WCUADRADO.jpg",
           "key_pair": {
-            "iv": "lZ5nFxhwyq2WvYpX",
-            "tag": "zHPJaVqy+FikFmu2mkjjAA==",
-            "data": "MSKCepnalOJOQkf9UrUH7WBCPKRcM86afH1S2zc0iV5KcZzDknYthYZdru11VecIt+o2RTY+qFPJow06ARXQ5UY="
+            "iv": "WGnlAVUxAXvBmHdz",
+            "tag": "/0jU0W/w0CunODwt58Qhyg==",
+            "data": "nneCPvr87vyV4TpHWRvVjDLfcBzBHOdg5zjnvKA+9ZA8QTMPbP//e+6Tm4j/rq5LBOoegiWOgtPeUA+mwb+BQyM="
           }
         },
         {
           "group_id": {
-            "iv": "GA30NxoeJvneYS0K",
-            "tag": "Cw9EGEXh7vSiut/rJS+rGw==",
-            "data": "1uTXVI1NqQ=="
+            "iv": "SDayfGGZ8lybKzJ6",
+            "tag": "IkxntAvNgUdJ8zUBkD/+XA==",
+            "data": "58SDVN3W+Q=="
           },
           "name": "PLIM PLIM",
           "logo": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/8218/8218WCUADRADO.jpg",
           "key_pair": {
-            "iv": "P9u8zKg/81hMlB7l",
-            "tag": "uKYDUKh3+ScBQttJBg5XNw==",
-            "data": "TBSEjPpT7mkswKyznAlLEUE/nTPIjvlmrwc727ieviezOXxL2yRrS+RSJPZXZgk1uvnk0igMAZo8fM6dHof6yzc="
+            "iv": "AN7LXr6ytPoAuf89",
+            "tag": "QYPq05sM6eGy3QlnQUNISw==",
+            "data": "3GTHE1yNjTmAH3V9w9PfOgvWfD7LYlUtV4mWiL+xjCCDHZ2/qwtvEiX60s9wQUW/CsMyQfai8KPBcfFXc4dbp5k="
           }
         },
         {
           "group_id": {
-            "iv": "Icw4aBK36B1h3af1",
-            "tag": "nHsPd2mO5BU3WUe0aJa+vA==",
-            "data": "UR4ugWdI"
+            "iv": "Li9FnSQxAdXN5tsP",
+            "tag": "xFpOA19HZDyvr2ELxYCAUg==",
+            "data": "relRVqCT"
           },
           "name": "TOONCAST",
           "logo": "https://clarovideocdn0.clarovideo.net/EPG/REPORTTV/LOGOS/880/880WCUADRADO.jpg",
           "key_pair": {
-            "iv": "dEmwK8jNvJq4Bdzo",
-            "tag": "56o0/CI/Ffne5sloQum8tQ==",
-            "data": "bvrg0NrvlN6sj09MZkw12GtSxk4iLhOGWe16reR8yyeBZSRVwKJg8I1ffkfdi3h1Odc2QEQumBhLPcJJBedTCD4="
+            "iv": "n7KfMoRabamypnE6",
+            "tag": "k+8CDMnqLuoeD3ULRndcTw==",
+            "data": "k/CE/P8S5cMLFHDja04kgHknfr+1lK1Sn4/tZQ6RAHuABr8ZLE51J/5j5E+IJBnaAos+aS/6e4fw3kT0d/3BouM="
           }
         },
         {
           "group_id": {
-            "iv": "FfNfnpu+HXoMgOC4",
-            "tag": "mQwXxymBygpuHrrLP46omg==",
-            "data": "oVyCQPMg"
+            "iv": "M/xrPGhAXONj2nGS",
+            "tag": "3PPTWobNBBe59YrynSOdAA==",
+            "data": "CBWkR77/"
           },
           "name": "BABY TV",
           "logo": "https://clarovideocdn0.clarovideo.net/EPG/REPORTTV/LOGOS/695/695WCUADRADO.jpg",
           "key_pair": {
-            "iv": "N8CSyac4qwHq93X1",
-            "tag": "MtJWf95d9UFCIm/Zuk+UmQ==",
-            "data": "TWZG3qmhwPKtURIJi+TpqHyYmZAV0F13+wlnP6u8b7LVs/qiXYJg2r5HYTTVX/7yrjkV/vPmn9YpvYXDcR7/rjE="
+            "iv": "JVgHMXQfGHxeFa6P",
+            "tag": "bPQUccQFdQQEY6etV9jr3w==",
+            "data": "OJJRLVbDxhjQtpzgQ8IfFi9Hl3BZQHKHTDMcjbodAfd0P75/dv66hClhpteDKVF4e+ySL5DqF3XxpPAugD0Znjo="
           }
         }
       ]
@@ -1582,128 +1636,128 @@
       "channels": [
         {
           "group_id": {
-            "iv": "UJmJl9AhIIoN79Uf",
-            "tag": "6pfFihMENS7CyckCnhwuRw==",
-            "data": "pVUuSh3AJg=="
+            "iv": "SmdhDABoueRMzHXR",
+            "tag": "9vTW+RHKKKlkXKqfXttQ1g==",
+            "data": "9qz9DpBNaQ=="
           },
           "name": "STAR TVE",
           "logo": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/3389/3389WCUADRADO.jpg",
           "key_pair": {
-            "iv": "VqwI3a/6ReBqFTY9",
-            "tag": "LmRI3GH3Uym6pEyhCn5ezw==",
-            "data": "fIln/PxDOQ5GaidpeZw5X/DfzNE+3iqklEEBfh8rRYKo6iDBeiyUOUQhTkp2JdeIvQgcO6scHNW9eO6+ERT4SyU="
+            "iv": "3tBWGV231MICSXGr",
+            "tag": "VgUImdk9hI1THue6hW9b8w==",
+            "data": "ZL9lXtLKWy7QcjoLOxNR9Wt566T6W7DaTkX516tQbdK8QIfEgEIEIgZN5U2BLVo88+r019KliYnvsNA1RExuRt8="
           }
         },
         {
           "group_id": {
-            "iv": "MM9obOGy/ptICIZy",
-            "tag": "AHercaIVhhjmo/CW3M9+0Q==",
-            "data": "a+9GbMU5"
+            "iv": "ze9jjtSpSd/Axbs5",
+            "tag": "DHUNBxuRZ77BS5aaF0qL9A==",
+            "data": "0aXIfTFY"
           },
           "name": "CANAL CLARO HD",
           "logo": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/3267/3267WCUADRADO.jpg",
           "key_pair": {
-            "iv": "4wIsACH+Fzt3syZ5",
-            "tag": "B74RwJFCf9soobDjkjTnjA==",
-            "data": "KUNC9Ma/y7UuRFtEKcVMeeZcJGSFqwO+Bharlclplo6K4DxXDtE9WAl//w7FnqJ41o/s5v9NQodDFVFHc39IRMA="
+            "iv": "wm2HmP09HJ6JCfh0",
+            "tag": "gjmslw2LeLfz7JJrfXFDZw==",
+            "data": "srfMdsu9CiaaDwY+QSCtcHAeUMostYlLu9qz5ndt1yDUQTqxMlrxITofo1PPGVuJ5BgMW4uHwv6EiwKaa70nIrY="
           }
         },
         {
           "group_id": {
-            "iv": "RICkSJt/xc/U/xJJ",
-            "tag": "K+UxnOBCFn5hojTlQ9PFEQ==",
-            "data": "60IoIT1h"
+            "iv": "W6AWgSFCR3cD2ob8",
+            "tag": "UAgsWiNs4nfuRcC5EgDDOg==",
+            "data": "ZdImZf91"
           },
           "name": "CNN EN ESPAÑOL",
           "logo": "https://clarovideocdn8.clarovideo.net/EPG/REPORTTV/LOGOS/62/62WCUADRADO.jpg",
           "key_pair": {
-            "iv": "OzyQLntdtkoVBGOn",
-            "tag": "SELXuuMG9EEk4oaw7oV/kg==",
-            "data": "5BErfViz8RS6DiTx2jIxvpdWwD/sMpg/oGFKXd0ptfzCECKwU28CGYmAi5yPhKUk9xBIAW8q6ym+S4/oEKPy54o="
+            "iv": "Og835fZ0Rm1DWAbc",
+            "tag": "JyvfhXvkDYCAypiIOGWNdQ==",
+            "data": "NZ2SO4GusVjczbLZKWr0cv7DLaCI+A6ejSrcRIAoMXPBi1IBAJGj+2bm3vClkKvOsTrf3G7u03OchNJ0KL4upVI="
           }
         },
         {
           "group_id": {
-            "iv": "jlEkSCDua0YUe0YF",
-            "tag": "3fkJZLCZUCVaYgPnxFf2GA==",
-            "data": "dOavNuqX"
+            "iv": "THDRcQRSQo/zMvBC",
+            "tag": "H/fJFxui44oOt/XJpEMmEg==",
+            "data": "RctTgDzI"
           },
           "name": "CNN INTERNACIONAL",
           "logo": "https://clarovideocdn8.clarovideo.net/EPG/REPORTTV/LOGOS/13/13WCUADRADO.jpg",
           "key_pair": {
-            "iv": "OPQ+t3xe4jit642d",
-            "tag": "msuWDDezRWEciep88QzjZg==",
-            "data": "mAbBv+QhIZ3e3AcxYoDVu1CT25ZfeRrlMdLO1Uq6UNdrqlrcxi7JftfddzqQTdVp7Oep/ocHDJgsJtwOLsTZc2o="
+            "iv": "iDASVh1WhNZJ+6Ou",
+            "tag": "m6BJqbDFLyxI+kKglAOQVA==",
+            "data": "+gM+LrbRgewqPajZCJXTABa9LZjvreeZiod6E+4+2ovU7f/P5TywGO/HRyvU9wffp364jTapbCrb1phPvPkAeR0="
           }
         },
         {
           "group_id": {
-            "iv": "ekhorg9ngUbRs1Vy",
-            "tag": "e5KJo5KvB5OWBnDrl8kt/g==",
-            "data": "+DHYGGFf"
+            "iv": "YmuQTzPlNygL5DmK",
+            "tag": "j2Qfv+4bdPcqtXVWb9ol5w==",
+            "data": "XI1JYcqB"
           },
           "name": "FRANCE24 HD",
           "logo": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/4229/4229WCUADRADO.jpg",
           "key_pair": {
-            "iv": "fk+CtmJU/WY+oeDg",
-            "tag": "i6C9URusocLhcxTA+Gh+jQ==",
-            "data": "QAX9bMCbSNBaMTZJoIN8xYinEfdtZLP/cPBDWg9CCygIgvG93QmLQWKv+Wt0VDyHZ0x4C5yxdC/Pqv6cGIQz53M="
+            "iv": "4YPB/6ufjuYzlwaz",
+            "tag": "UI6bjm/Y4NofcfOM6llZDw==",
+            "data": "GAJxavcDKnmMRuykAWncfpza0Wl7X3xkmdAT2NVy+F5dTqV2/rSI1vbPsHTWJToIpxlTHzkyon9dd64WtsqLEi4="
           }
         },
         {
           "group_id": {
-            "iv": "zhgGbbkKE+MsJV7W",
-            "tag": "+2RknfZQ5JUICJvAUWqnSg==",
-            "data": "AkSXLHLDCw=="
+            "iv": "GnbbnUOV6OvUkKxH",
+            "tag": "gTKs+S6XJsuw/9tAXohx+A==",
+            "data": "2ybrWOLAkA=="
           },
           "name": "RUSSIAN TODAY",
           "logo": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/1502/1502WCUADRADO.jpg",
           "key_pair": {
-            "iv": "BlL3mcuziYcodMKE",
-            "tag": "oNrNBrcG0BMgvaNouV0+3w==",
-            "data": "MSQYBkxcT186rNMVyFou3OMWgkw3pVK6UYLhmmddJ9tzS282ZJYktsB/TToxiXu+8cF9dRu6GGblvNiwj4LWTsg="
+            "iv": "/uMkzoGkVN1FwPJc",
+            "tag": "uEPSZ7IwLDixs54sPDxpCA==",
+            "data": "HcZ0guFNyJliKaN4f82b8GN8GfR6x5G4MnZjIB2D/kbi228jzwNGChJhKWyWt8t+CDhEtZ1JO9g0dfbi635oUWk="
           }
         },
         {
           "group_id": {
-            "iv": "Q5OgERjY4y9WpAnw",
-            "tag": "kFlH03ZeX4l/bvKtw69EPw==",
-            "data": "CYFs9rKV4A=="
+            "iv": "kQR+EofcFxRsGyAM",
+            "tag": "GUXbYMfIip8JuUU6nuunkA==",
+            "data": "IEpIW7wUgA=="
           },
           "name": "D NEWS",
           "logo": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/7673/7673WCUADRADO.jpg",
           "key_pair": {
-            "iv": "IOnB8S/mDQ6q+xun",
-            "tag": "t6f7MvS7X61G4ziJzi+yag==",
-            "data": "qKja/H04DwEZ6bCRRNLcewiL2RixUdRzhl3SavY7LojZ9bE0vpQ2HMIBQfzNmfRTvtgCtcd0hW9ANwjdIcsmTQI="
+            "iv": "tZDpq92XjIpmLvoc",
+            "tag": "Ns2O96R+WyLJUovHtiGwDQ==",
+            "data": "2WTaGRFS+b+R+hZgSRunFyTBO6nM4lf6s+meL8onD4li5+GNzW9TezoIHtiXodU2D3R6pdHwq6NAqoXX4cQqwqE="
           }
         },
         {
           "group_id": {
-            "iv": "CTOZLTCyvNOnAQLY",
-            "tag": "V0M7vNsFN9uX+SsAvZm+nA==",
-            "data": "IFTd7EqH"
+            "iv": "D9kHhOiTSIVEWQOt",
+            "tag": "s5Gr8gXXb2mtOX9tB1t3xA==",
+            "data": "qIGlu9Be"
           },
           "name": "INTI HD",
           "logo": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/2920/2920WCUADRADO.jpg",
           "key_pair": {
-            "iv": "+KM9Z5ECSPhPkzIp",
-            "tag": "EvTQ84u2Y/fgbmMNz9xAVA==",
-            "data": "oWGa2o5rVHUfmbiDl+xUjdiAliXOqKLac6Pf1ZFRruJAYol6RoVkyTqLV4OxUqrNpUpt6ttvgCCibAQPgYtF6j0="
+            "iv": "rth3Qvu2+UZaaYjh",
+            "tag": "gNOkpvK2JI4iokuSz42/fA==",
+            "data": "vJIzV1G/94hmF9ThCSof+C4x91u2bUzJv1tNYY1cIq6CWxdUo827HijyRC+nPX25AOj487GKNEfWFVn/Dt2djbs="
           }
         },
         {
           "group_id": {
-            "iv": "Eos4x1yi6lb6ZNFY",
-            "tag": "nK4WooCLeVKuj1pM7u6OxQ==",
-            "data": "l2YlXvJ7Ow=="
+            "iv": "EAKGixqJmeNCOs6c",
+            "tag": "KLVWn2pGEVwANsszsmm9mw==",
+            "data": "BPcq1jnBqA=="
           },
           "name": "CLARO EVENTOS",
           "logo": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/9253/9253WCUADRADO.jpg",
           "key_pair": {
-            "iv": "Yb/V0CHgJdDryxeS",
-            "tag": "RlT3sZtID5T3EIZqg7gpRw==",
-            "data": "yHsfo9Htu3aLRZHeNumZqkvymlkPUVA3MqqKMagJPNJZH1uHtQLcv66ACfLGLchrnGLzU7xpFtR+/wOZbRQxCO4="
+            "iv": "2vXm9Rhe9MqNG5P6",
+            "tag": "RFgmNzPWa3qPFKtnNpnvkw==",
+            "data": "8DPmUftW7+HwPhuIWZpb5VquSDlTx6qd6bUvZ4BAAxSGliplKmH9hLqGyFM613ya0Rj1qXXrdruAH2JDOP86CYg="
           }
         }
       ]
@@ -1713,30 +1767,30 @@
       "channels": [
         {
           "group_id": {
-            "iv": "30nHEc44AzWM4HB5",
-            "tag": "egZ1JKIeWIwuoYRwwDJHvA==",
-            "data": "bdeSEFX8Aw=="
+            "iv": "2ARkI2YST3bc+FZT",
+            "tag": "yX9xjbsWGq90mbexMcfrBg==",
+            "data": "BPs9GsiQkA=="
           },
           "name": "QUIERO MÚSICA",
           "logo": "https://clarovideocdn0.clarovideo.net/EPG/REPORTTV/LOGOS/779/779WCUADRADO.jpg",
           "key_pair": {
-            "iv": "Ssw7jP01WfC6GyrS",
-            "tag": "r6hlKKnnDgR/RE8cafV6TQ==",
-            "data": "xY53/8dOkW7labHELaClTjl0Yj7LF+syErqVzovrtTVz/z6JnXOu2qYtbHyYDu2WnnDSPZ/DdAaR+MR4YRpLyl0="
+            "iv": "Sfd9TV234oyssMHc",
+            "tag": "xbH44MgrmuEgFzQ8citvWg==",
+            "data": "ezhmDbE26Plg0WOc7O+nTyXcndk64C5Jpoa2FwBqWBf/4FW7eBxU7zI7eATZ4AjFVu061Ozzke684zd0tYawAZA="
           }
         },
         {
           "group_id": {
-            "iv": "RreqCPifCK045zPh",
-            "tag": "RRj9c72lqReZqsLmjW+OuQ==",
-            "data": "yWz8l0CD"
+            "iv": "xVlOonLw/J1o9WRd",
+            "tag": "++kgfiFNx8A+ehlz1pqMUg==",
+            "data": "1QhaH/ir"
           },
           "name": "CANAL DE LA MÚSICA",
           "logo": "https://clarovideocdn0.clarovideo.net/EPG/REPORTTV/LOGOS/230/230WCUADRADO.jpg",
           "key_pair": {
-            "iv": "HEroiIGeC9WOTHx7",
-            "tag": "Y6P59prD4w3U4hA+nI526Q==",
-            "data": "ik6y+cHcNBNsmcrHxAwOPb5aJU18Hd5nTx0u4XNPXJUYLo9vJKuNzJ3stl9iQdjq89hzkUg5Nf1ESBfflzHzhCE="
+            "iv": "5W4D6bQ92hlbW+cS",
+            "tag": "5HpsHxEfDaQk51KrC6fz/Q==",
+            "data": "lRn8984ObYhiIdAs0UWvYXUtRJFyqbjJ8pIbYoledOfCBb0kw97fj0TZQPey12/V3e9ELOb3OT5OV53J+3hSesY="
           }
         }
       ]
