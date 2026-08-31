@@ -1,5 +1,242 @@
 {
   "categories": [
+{
+      "name": "Argentina",
+      "channels": [
+
+
+
+
+{
+"group_id": {
+"iv": "nckfYCZ4hAA8Wa5N",
+"tag": "b5btfe5z8/ehgsO+8gkpVw==",
+"data": "IrAkWNEq"
+},
+"name": "CLARO SPORTS",
+"logo": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/8962/8962WCUADRADO.jpg",
+"key_pair": {
+"iv": "7rWRaN3BGtqHaijW",
+"tag": "CaX0Tj+AvNNtdWpf9LKy3A==",
+"data": "T8821NTT+xuyBfgKX6+bYHLVmbpdhAf1NvZGUqhhks67B6WuHLW1icc6HQ+51W8SdJgQnbuk+Qr9SoKtvS2Q+jQ="
+}
+},
+
+{
+"group_id": {
+"iv": "7de45wk3kxOSoTUI",
+"tag": "U6T51IzMoCC8KnWABnMxag==",
+"data": "ZubSI3x9Ig=="
+},
+"name": "TYC SPORTS",
+"logo": "https://clarovideocdn8.clarovideo.net/EPG/REPORTTV/LOGOS/40/40WCUADRADO.jpg",
+"key_pair": {
+"iv": "SLHlP9oy8TBIeh8h",
+"tag": "EZKoIQSZUF4SXrtAiVvt/w==",
+"data": "YMRDH9zaFiqOSV9KXq3O+I663SD26ct0T3/mFGetrf8IMepJV/VE8O5WxqHkEtNvL8zoL0HV9r1bxmLqijb+gK8="
+}
+},
+{
+"group_id": {
+"iv": "J8Jn8eO5Kq6Xh+YU",
+"tag": "pdpZCnK7PyoSIb/VzQWrUg==",
+"data": "arYVPx2P"
+},
+"name": "ESPN NEW",
+"logo": "https://clarovideocdn0.clarovideo.net/EPG/REPORTTV/LOGOS/229/229WCUADRADO.jpg",
+"key_pair": {
+"iv": "srNOqViOte9eb0AT",
+"tag": "x04Y8SX8GLM4pRjkmKc2cw==",
+"data": "TsWmguDNIy1393Gj8fuoSmOclCf+OX7+jfcGLuuv93m8Zi6sYiEDJJDF7r2E3K3SYUVJP5xmbNFK8HSSci3D9Wc="
+}
+},
+{
+"group_id": {
+"iv": "QSjKhMpIe9LCWXNc",
+"tag": "2ix3qpySpJNRy6jA+6squw==",
+"data": "OdbRnBJV"
+},
+"name": "ESPN 2 NEW",
+"logo": "https://clarovideocdn8.clarovideo.net/EPG/REPORTTV/LOGOS/18/18WCUADRADO.jpg",
+"key_pair": {
+"iv": "TYaxyi3wUkBOW6cB",
+"tag": "zmg1M8kyBMmZ/3qXIO7tSA==",
+"data": "WrYtSwYAPSiXmfED6jItM6ruJUnNN4TkwTCyeAcL38odULv4UbDSjPoqXjoF34WsSFf3wkL2czPT1Y1zL4ThHxI="
+}
+},
+{
+"group_id": {
+"iv": "X1psSOGrD4nqAWtg",
+"tag": "NlASqNB2Z/O35BL7YuaYyg==",
+"data": "RyBhWaCJ"
+},
+"name": "ESPN 3",
+"logo": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/4971/4971WCUADRADO.jpg",
+"key_pair": {
+"iv": "EEFmNOMtgG7Qp8Sl",
+"tag": "sFD+TcSq13gG1KdXKFXpzw==",
+"data": "y1tM0viAeg4qgX1YzMW0doHQQhDg4OlEvx7KcTLYN4qq0VBexl0RhZuRAm383lnvKfMYUrHhOUXiC43npJCN5Gg="
+}
+},
+{
+"group_id": {
+"iv": "876QkABYAajtpaBG",
+"tag": "T6NqUnj+jL3AikPBFEmv7A==",
+"data": "8pCZctL5"
+},
+"name": "ESPN 4",
+"logo": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/3224/3224WCUADRADO.jpg",
+"key_pair": {
+"iv": "g1a+suoQLMuSNz09",
+"tag": "x0viuCWMAsAyAtz7nW44WQ==",
+"data": "IuHg6MV72xmYHL8zfvuPEW6aYI3owu5h8heYNgRMKa2NIJAfKJ2T3864aKMzODdX0qDk/+pDwoCCJTLU2uu8Q28="
+}
+},
+{
+"group_id": {
+"iv": "NLr17tlo15Jsgpb1",
+"tag": "RljiRAieT8Fh/rZKf1Mt7A==",
+"data": "aWue/IOO"
+},
+"name": "FOX SPORTS NEW",
+"logo": "https://clarovideocdn0.clarovideo.net/EPG/REPORTTV/LOGOS/221/221WCUADRADO.jpg",
+"key_pair": {
+"iv": "HEHjmoIKq36xlZuy",
+"tag": "s+gSkDtKl4YBdQY27RIHEw==",
+"data": "sC/IdD5Lj4iL4VQQGHXrUxFFTHDO09+rYIjYNxQwiuKWrsSkvX2Gq+eEZKoQcnPbtqq5801u2XNassazFWirta4="
+}
+},
+{
+"group_id": {
+"iv": "PboJUBgSB55rNFPf",
+
+"tag": "Pkjnv358TJQsAGswhgSnJA==",
+"data": "lSKQy8jE"
+},
+"name": "FOX SPORTS 2 NEW",
+"logo": "https://clarovideocdn0.clarovideo.net/EPG/REPORTTV/LOGOS/978/978WCUADRADO.jpg",
+"key_pair": {
+"iv": "2qLGJEibVZkxWmnD",
+"tag": "noMyL4fk8cBWDQHXtrJCdQ==",
+"data": "RJDCj+UuXZ6W8OM0JbTBbCegi0DQOzUlWJeqFJZccv66cZPdHa4ebbBeN0a+Bc5aqJpsNmF7A5RGvWbtXD6T/9A="
+}
+},
+{
+"group_id": {
+"iv": "RNUkxcTBCDAvVuP2",
+"tag": "DlOQA5aK5LhuD02xqtoKUg==",
+"data": "FkjpfFmH"
+},
+"name": "FOX SPORTS 3 NEW",
+"logo": "https://clarovideocdn0.clarovideo.net/EPG/REPORTTV/LOGOS/362/362WCUADRADO.jpg",
+"key_pair": {
+"iv": "eL/cf0EuJvunCAUe",
+"tag": "Ccfl4tTOIHK6HmKRqnO/RA==",
+"data": "llmz+mRKiapczZeCB+PJ8JFLwkJ3a3WcmXb4wid/aBViLkhyp4RgMSUQ+FA6NMCsLf7eI6W5spBJdm1MhrB3PtY="
+}
+},
+{
+"group_id": {
+"iv": "OSxeweazduxU8skC",
+"tag": "FzB3i5+M2yg4F0ADcoPy9A==",
+"data": "X9Ngz7Jd"
+},
+"name": "DeporTV HD",
+"logo": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/2198/2198WCUADRADO.jpg",
+"key_pair": {
+"iv": "+ks2Eql4WRO+blw9",
+"tag": "znaE/9F5gy7daNhISUg+gw==",
+"data": "rBUWi9TA199QwYh4HC0u5X44lZpde2Wu5vDVwdaF1Iw94HAQLIA6rDc7uidXcg/8GDeh0Dp+ST2sUzBZ6LfveGw="
+}
+},
+{
+"group_id": {
+"iv": "oT4JTN09T8iEZzW5",
+"tag": "jL3qrTQretu5fzjspqprdQ==",
+"data": "Di1y50CIGQ=="
+},
+"name": "DSPORTS",
+"logo": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/8691/8691WCUADRADO.jpg",
+"key_pair": {
+"iv": "sCHWmvo+uZ4ku1tv",
+"tag": "HHbX/twkN6jy87RRHWsaWw==",
+"data": "GI478EIqBiMJBgiP4MOSjp2lI0sw5reY24mJA491FZQUp7L21PzJofKY1ouCyHVLZiFclsu5/UtbEdCvjYOx3ao="
+}
+},
+{
+"group_id": {
+"iv": "pzDPABuTorJVBhsV",
+"tag": "OaaWYsflZV9ptskJ4A06gQ==",
+"data": "EexYxuXwfw=="
+},
+"name": "DSPORTS2",
+"logo": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/6998/6998WCUADRADO.jpg",
+"key_pair": {
+"iv": "cj+cWLEQnGDjis4F",
+"tag": "dliLGUbdLKvgWbCb7xygOg==",
+"data": "5SMKYdxIrY8fwu+ffgmqipLkvfptS1i7iu138WlEr2g/PQibosUxIyFqzMwKxJVZqDAsOX1HIKUOsIj37vLKGkY="
+}
+},
+{
+"group_id": {
+"iv": "J4IiosuhXMbuur4/",
+"tag": "83KCr5/AIqhyc0M3YUIe0A==",
+"data": "ynqaIu8d"
+},
+"name": "PX TV HD",
+"logo": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/2063/2063WCUADRADO.jpg",
+"key_pair": {
+"iv": "t4rc0wB6Gux/hrvo",
+"tag": "WKbSsmXugySr2DoZgSfPog==",
+"data": "OjeSZtxjlD/jITPpzNtB3NtH6ZDwmmxa9juv2a6yAq/BDh+y2wxRdJKgh261EM5orY724Db79rxSn23GNZCIkhY="
+}
+},
+{
+"group_id": {
+"iv": "URdJ5hBpVER7ICgw",
+"tag": "T5aC3XBuW86bfOB7xAL7gg==",
+"data": "XI28FF9pNQ=="
+},
+"name": "TYC SPORTS 2",
+"logo": "https://clarovideocdn0.clarovideo.net/EPG/REPORTTV/LOGOS/153/153WCUADRADO.jpg",
+"key_pair": {
+"iv": "L3OtZKPDtzkViKvR",
+"tag": "oI0xuYHJG118EOqfghuFlQ==",
+"data": "Whmi4OVTzK9C2/90I22CSqKdxBffhAGquTSIidAsGmTaIqua4+C3RJrZFlU94LloEynoYC+8zLPaz+ypzM+43Jo="
+}
+},
+{
+"group_id": {
+"iv": "wwNdUEKu6jPTkTn6",
+"tag": "DOBWcp/zqE2hm1DfKr/WpA==",
+"data": "AAm5xx5D"
+
+},
+"name": "TNT SPORTS",
+"logo": "https://clarovideocdn4.clarovideo.net/EPG/REPORTTV/LOGOS/3950/3950WCUADRADO.jpg",
+"key_pair": {
+"iv": "Z7c4kkdUAvM41Lk/",
+"tag": "j3cBbh12mfChmnPVuWQzSg==",
+"data": "TJaPhYKFdckMwjXECDxiReueeFtWf6kCg4buTrrToIqr+Vaxyl2gNgNqGxq4Nq83lxBp1VhnICJAOnlhRVme3hQ="
+}
+},
+{
+"group_id": {
+"iv": "fQUrzGlkKq95o0ME",
+"tag": "MCwcLwy7643OtpACspBFHw==",
+"data": "+OfwbJS0"
+},
+"name": "ESPN PREMIUM",
+"logo": "https://clarovideocdn2.clarovideo.net/EPG/REPORTTV/LOGOS/3951/3951WCUADRADO.jpg",
+"key_pair": {
+"iv": "pCPQS5rL4XYyzc/5",
+"tag": "CGmu2bX+OBHgGZmnd7Kghg==",
+"data": "mtZj30auQpXbDz+HjDnZa0GAmFlHdkBt800Cpn1dWmUU9DT1ZQYa/s5l3hbPjk2Ag8ymcKfICu2GdmEMIVVsjJc="
+}
+}
+
+
+      ]},
   
 
     {
